@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "title": "Old Venetian Port of Chania – Chania, Greece",
+    "description": "Complete travel guide to the Old Venetian Port of Chania. Learn about this historic landmark, including location, history, visiting information, and visitor reviews."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Old Venetian Port of Chania",
+    "subtitle": "Historic Landmark · Crete, Greece",
+    "rating": "4.8",
+    "reviewCount": "40,488 reviews",
+    "type": "Historic Port",
+    "openMaps": "View on Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/2ABtjDZz3dGynkJV8"
+  },
+  "intro": {
+    "title": "Discover Old Venetian Port of Chania",
+    "description": "The Old Venetian Port of Chania is one of the most iconic landmarks in Crete, Greece. Built during the Venetian period (1204-1669), it features picturesque architecture, colorful buildings, and a historic lighthouse. This charming harbor is the heart of Chania's old town and a must-visit destination for travelers.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Best visited in early morning or late afternoon to avoid crowds.",
+        "Sunset is the most magical time to enjoy the harbor views.",
+        "Try local seafood at the waterfront restaurants.",
+        "Bring a camera for stunning photography opportunities."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Venetian Harbor from the 14th century",
+        "Iconic Egyptian Lighthouse",
+        "Colorful Venetian buildings",
+        "Historic shipyards (Arsenali)"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About Old Venetian Port",
+    "sections": [
+      {
+        "id": "history",
+        "title": "History & Construction",
+        "content": "The Old Venetian Port was constructed during the Venetian rule of Crete (1204-1669). It served as a vital trading hub in the Mediterranean. The port was expanded and fortified to protect against pirates and rival powers."
+      },
+      {
+        "id": "lighthouse",
+        "title": "The Egyptian Lighthouse",
+        "content": "The iconic lighthouse at the entrance of the port was built in the 16th century by the Venetians and later restructured by the Egyptians in the 19th century. It is one of the oldest lighthouses in the world."
+      },
+      {
+        "id": "architecture",
+        "title": "Architecture & Preservation",
+        "content": "The port area features well-preserved Venetian and Ottoman architecture. The buildings now house restaurants, cafes, and shops, creating a vibrant atmosphere that blends history with modern life."
+      },
+      {
+        "id": "cultural",
+        "title": "Cultural Significance",
+        "content": "The Old Port is the cultural and historical center of Chania. It hosts various festivals, events, and is a symbol of the city's diverse heritage spanning Venetian, Ottoman, and Greek periods."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Old Venetian Port of Chania (Παλαιό Ενετικό Λιμάνι Χανίων)",
+    "type": "Attraction Type",
+    "typeValue": "Historic Landmark / Harbor",
+    "country": "Country",
+    "countryValue": "Greece",
+    "region": "Region",
+    "regionValue": "Crete",
+    "city": "City",
+    "cityValue": "Chania",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.8 (40,488)",
+    "address": "Address",
+    "addressValue": "Ag. Markou 8, Chania 731 32, Greece",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "G289+V2 Chania, Greece",
+    "phone": "Phone",
+    "phoneValue": "+30 2821 05606"
+  },
+  "hours": {
+    "title": "Visiting Hours",
+    "park": "Access",
+    "parkTime": "Open 24 hours, all year round",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Pleasant weather, fewer tourists",
+    "bestTimeSummer": "Summer: Early morning or evening to avoid heat",
+    "bestTimeAutumn": "Autumn: Mild weather, ideal for walking",
+    "bestTimeWinter": "Winter: Quiet atmosphere, perfect for photography",
+    "tip": "The port area is free to visit. Boat tours and dining are available at additional cost."
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Port Area",
+    "parkPrice": "Free public access",
+    "boatTours": "Boat Tours",
+    "boatToursPrice": "Available from local operators (prices vary)",
+    "dining": "Dining",
+    "diningPrice": "Waterfront restaurants and cafes available"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Chania Airport",
+    "fromCenterDesc": "Distance of about 15km from Chania International Airport. Take a taxi or rental car to the old port.",
+    "fromStation": "From Bus Station",
+    "fromStationDesc": "Local buses connect the airport and city center to the old town area.",
+    "fromHotel": "From Hotels",
+    "fromHotelDesc": "Most hotels in Chania old town are within walking distance to the port.",
+    "walking": "Walking",
+    "walkingDesc": "The port is pedestrian-friendly with scenic walking paths.",
+    "driving": "Driving",
+    "drivingDesc": "Parking available in nearby public parking areas."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Explore the historic harbor and its surroundings.",
+    "steps": [
+      "Start from the Venetian Harbor entrance",
+      "Walk along the waterfront promenade",
+      "Visit the Egyptian Lighthouse at the breakwater",
+      "Explore the historic Arsenali (shipyards)",
+      "Enjoy dining at a waterfront restaurant",
+      "Capture sunset photos from the western pier"
+    ]
+  },
+  "photoSpots": {
+    "title": "Top Photo Spots",
+    "spots": [
+      {
+        "title": "The Egyptian Lighthouse",
+        "description": "The most iconic symbol of Chania's old port.",
+        "location": "Breakwater",
+        "image": "/gallery/old-venetian-port-of-chania (1).jpg"
+      },
+      {
+        "title": "Venetian Arsenali",
+        "description": "Historic shipyards with impressive architecture.",
+        "location": "Eastern quay",
+        "image": "/gallery/old-venetian-port-of-chania (2).jpg"
+      },
+      {
+        "title": "Waterfront Promenade",
+        "description": "Colorful buildings lining the harbor.",
+        "location": "Harbor edge",
+        "image": "/gallery/old-venetian-port-of-chania (3).jpg"
+      },
+      {
+        "title": "Sunset Viewpoint",
+        "description": "Best spot to capture the golden hour at the port.",
+        "location": "Western pier",
+        "image": "/gallery/old-venetian-port-of-chania (4).jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Chania's Historic Harbor",
+    "captions": [
+      "Venetian Harbor panorama",
+      "Egyptian Lighthouse at sunset",
+      "Colorful waterfront buildings",
+      "Historic Arsenali shipyards",
+      "Chania old town streets",
+      "Harbor view from above",
+      "Fishing boats at dawn",
+      "Venetian architecture details",
+      "Harbor at night with lights",
+      "Seafood restaurants waterfront",
+      "Boat tours departing",
+      "Historic fortress walls",
+      "Morning calm at the port",
+      "Reflections in the water",
+      "Local cafes and tavernas",
+      "Archaeological remnants",
+      "Panoramic harbor view",
+      "Sunset over the lighthouse"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Reviews can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "John S.",
+        "rating": 5,
+        "date": "2026-04-10",
+        "text": "Absolutely stunning place! The Venetian port is magical at sunset. A must-visit when in Crete."
+      },
+      {
+        "name": "Maria K.",
+        "rating": 5,
+        "date": "2026-03-22",
+        "text": "Beautiful historic port with amazing architecture. Loved the waterfront restaurants and the lighthouse view."
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "date": "2026-02-15",
+        "text": "One of the most charming places in Greece. The old buildings and harbor atmosphere are unforgettable."
+      },
+      {
+        "name": "Sophie R.",
+        "rating": 5,
+        "date": "2026-01-30",
+        "text": "Perfect for a romantic evening walk. The lighthouse and harbor lights create a magical atmosphere."
+      },
+      {
+        "name": "Alex P.",
+        "rating": 5,
+        "date": "2025-12-18",
+        "text": "Great history and beautiful scenery. The boat tours from the port are highly recommended."
+      },
+      {
+        "name": "Emma W.",
+        "rating": 5,
+        "date": "2025-11-25",
+        "text": "Chania's old port is simply beautiful. So much history and charm. Don't miss the sunset here!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "Ag. Markou 8, Chania 731 32, Greece",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "brandName": "Old Venetian Port of Chania",
+    "brandSubtitle": "Historic Landmark · Crete, Greece",
+    "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources & Information",
+    "officialLinks": {
+      "gnto": "Greek National Tourism Organization",
+      "crete": "Incredible Crete - Official Tourism",
+      "chaniaCity": "Chania City Government & Tourism",
+      "portAuthority": "Chania Port Authority",
+      "archaeological": "Archaeological Cadastre",
+      "culture": "National Cultural Heritage"
+    },
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+  },
+  "officialManagement": {
+    "title": "About Old Venetian Port of Chania",
+    "text": "The Old Venetian Port of Chania is managed and protected by the Greek Ministry of Culture and Sports. The area is listed as a protected historical site and is part of Greece's cultural heritage preservation efforts."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+      },
+      {
+        "heading": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+      },
+      {
+        "heading": "Data Security and Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to third-party commercial organizations."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "Website Content and Use",
+        "content": "This website provides travel, transport, and historical information about the Old Venetian Port of Chania. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
+      },
+      {
+        "heading": "Intellectual Property",
+        "content": "The text, images, and designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial purposes."
+      },
+      {
+        "heading": "Disclaimer",
+        "content": "We strive to ensure the accuracy and timeliness of the information, but we do not assume legal responsibility for travel delays or losses caused directly or indirectly by using the information provided on this website."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Necessary for basic website functionality and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Help us understand visitor behavior and improve the website."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Used for cross-site tracking and delivering personalized ads."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences Saved!"
+  }
+}

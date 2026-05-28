@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "title": "哈尼亚老威尼斯港口 (Old Venetian Port of Chania) – 哈尼亚, 希腊",
+    "description": "哈尼亚老威尼斯港口完整旅游指南。了解这个历史地标，包括位置、历史、游览信息和游客评价。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "哈尼亚老威尼斯港口",
+    "subtitle": "历史地标 · 希腊克里特岛",
+    "rating": "4.8",
+    "reviewCount": "40,488 条评价",
+    "type": "历史港口",
+    "openMaps": "在Google地图上查看位置",
+    "mapsLink": "https://maps.app.goo.gl/2ABtjDZz3dGynkJV8"
+  },
+  "intro": {
+    "title": "探索哈尼亚老威尼斯港口",
+    "description": "哈尼亚老威尼斯港口是希腊克里特岛最具标志性的地标之一。建于威尼斯统治时期（1204-1669年），拥有如画的建筑、彩色的房屋和历史灯塔。这个迷人的港口是哈尼亚老城的中心，也是游客必访的目的地。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "最佳游览时间是清晨或傍晚，避开人群。",
+        "日落是欣赏港口景色最魔幻的时刻。",
+        "尝试海滨餐厅的当地海鲜。",
+        "带上相机，捕捉令人惊叹的摄影机会。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点",
+      "items": [
+        "14世纪的威尼斯港口",
+        "标志性的埃及灯塔",
+        "彩色的威尼斯建筑",
+        "历史造船厂（Arsenali）"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于老威尼斯港口",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史与建造",
+        "content": "老威尼斯港口建于威尼斯统治克里特岛时期（1204-1669年）。它曾是地中海重要的贸易枢纽。港口经过扩建和加固，以抵御海盗和敌对势力。"
+      },
+      {
+        "id": "lighthouse",
+        "title": "埃及灯塔",
+        "content": "港口入口处的标志性灯塔建于16世纪威尼斯时期，后来在19世纪由埃及人重建。它是世界上最古老的灯塔之一。"
+      },
+      {
+        "id": "architecture",
+        "title": "建筑与保护",
+        "content": "港口区域保留了完好的威尼斯和奥斯曼建筑。这些建筑现在容纳了餐厅、咖啡馆和商店，创造了融合历史与现代生活的活力氛围。"
+      },
+      {
+        "id": "cultural",
+        "title": "文化意义",
+        "content": "老港口是哈尼亚的文化和历史中心。它举办各种节日、活动，是这座城市多元遗产的象征，涵盖了威尼斯、奥斯曼和希腊时期。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Old Venetian Port of Chania (Παλαιό Ενετικό Λιμάνι Χανίων)",
+    "type": "景点类型",
+    "typeValue": "历史地标 / 港口",
+    "country": "国家",
+    "countryValue": "希腊 (Greece)",
+    "region": "大区",
+    "regionValue": "克里特大区 (Crete)",
+    "city": "城市",
+    "cityValue": "哈尼亚 (Chania)",
+    "googleRating": "谷歌评分",
+    "googleRatingValue": "4.8 (40,488)",
+    "address": "地址",
+    "addressValue": "Ag. Markou 8, Chania 731 32, Greece",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "G289+V2 Chania, Greece",
+    "phone": "联系电话",
+    "phoneValue": "+30 2821 05606"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "进入",
+    "parkTime": "24小时开放，全年无休",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "春季：气候宜人，游客较少",
+    "bestTimeSummer": "夏季：清晨或傍晚游览，避开高温",
+    "bestTimeAutumn": "秋季：天气温和，适合散步",
+    "bestTimeWinter": "冬季：安静的氛围，完美的摄影时机",
+    "tip": "港口区域免费参观。乘船游览和用餐需要额外费用。"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "港口区域",
+    "parkPrice": "免费公共访问",
+    "boatTours": "乘船游览",
+    "boatToursPrice": "可通过当地运营商安排（价格各异）",
+    "dining": "用餐",
+    "diningPrice": "海滨餐厅和咖啡馆可供选择"
+  },
+  "transport": {
+    "title": "交通指南",
+    "fromCenter": "从哈尼亚机场",
+    "fromCenterDesc": "距离哈尼亚国际机场约15公里。可乘坐出租车或租车前往老港口。",
+    "fromStation": "从公交车站",
+    "fromStationDesc": "当地公交车连接机场和市中心到老城区。",
+    "fromHotel": "从酒店",
+    "fromHotelDesc": "哈尼亚老城的大多数酒店都在步行距离内可达港口。",
+    "walking": "步行",
+    "walkingDesc": "港口适合行人，有风景优美的步行道。",
+    "driving": "自驾",
+    "drivingDesc": "附近公共停车区有停车位。"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "探索历史港口及其周边。",
+    "steps": [
+      "从威尼斯港口入口出发",
+      "沿着海滨长廊漫步",
+      "参观防波堤上的埃及灯塔",
+      "探索历史造船厂（Arsenali）",
+      "在海滨餐厅享用美食",
+      "从西码头捕捉日落照片"
+    ]
+  },
+  "photoSpots": {
+    "title": "绝佳拍照点",
+    "spots": [
+      {
+        "title": "埃及灯塔",
+        "description": "哈尼亚老港口最具标志性的象征。",
+        "location": "防波堤",
+        "image": "/gallery/old-venetian-port-of-chania (1).jpg"
+      },
+      {
+        "title": "威尼斯造船厂",
+        "description": "拥有令人印象深刻的建筑的历史造船厂。",
+        "location": "东码头",
+        "image": "/gallery/old-venetian-port-of-chania (2).jpg"
+      },
+      {
+        "title": "海滨长廊",
+        "description": "环绕港口的彩色建筑。",
+        "location": "港口边缘",
+        "image": "/gallery/old-venetian-port-of-chania (3).jpg"
+      },
+      {
+        "title": "日落观景点",
+        "description": "在港口捕捉黄金时刻的最佳地点。",
+        "location": "西码头",
+        "image": "/gallery/old-venetian-port-of-chania (4).jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "哈尼亚历史港口",
+    "captions": [
+      "威尼斯港口全景",
+      "日落时的埃及灯塔",
+      "彩色海滨建筑",
+      "历史造船厂",
+      "哈尼亚老城街道",
+      "从上方俯瞰港口",
+      "黎明时的渔船",
+      "威尼斯建筑细节",
+      "夜晚的港口灯光",
+      "海滨海鲜餐厅",
+      "出发的乘船游览",
+      "历史堡垒墙壁",
+      "清晨港口的宁静",
+      "水中的倒影",
+      "当地咖啡馆和小酒馆",
+      "考古遗迹",
+      "港口全景视图",
+      "灯塔上的日落"
+    ],
+    "viewAll": "在Google地图上查看位置",
+    "showAll": "显示完整照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可通过Google地图查看。",
+    "moreReviews": "在Google地图上查看更多评价",
+    "items": [
+      {
+        "name": "约翰 S.",
+        "rating": 5,
+        "date": "2026-04-10",
+        "text": "绝对令人惊叹的地方！威尼斯港口在日落时非常魔幻。来克里特岛必访之地。"
+      },
+      {
+        "name": "玛丽亚 K.",
+        "rating": 5,
+        "date": "2026-03-22",
+        "text": "美丽的历史港口，建筑令人惊叹。喜欢海滨餐厅和灯塔景色。"
+      },
+      {
+        "name": "大卫 L.",
+        "rating": 5,
+        "date": "2026-02-15",
+        "text": "希腊最迷人的地方之一。老建筑和港口氛围令人难忘。"
+      },
+      {
+        "name": "索菲 R.",
+        "rating": 5,
+        "date": "2026-01-30",
+        "text": "完美的浪漫傍晚散步。灯塔和港口灯光创造了魔幻的氛围。"
+      },
+      {
+        "name": "亚历克斯 P.",
+        "rating": 5,
+        "date": "2025-12-18",
+        "text": "伟大的历史和美丽的景色。强烈推荐从港口出发的乘船游览。"
+      },
+      {
+        "name": "艾玛 W.",
+        "rating": 5,
+        "date": "2025-11-25",
+        "text": "哈尼亚老港口简直太美了。这么多历史和魅力。不要错过这里的日落！"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "Ag. Markou 8, Chania 731 32, Greece",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "footer": {
+    "brandName": "哈尼亚老威尼斯港口",
+    "brandSubtitle": "历史地标 · 希腊克里特岛",
+    "rights": "© 2026 独立旅游研究项目 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "官方资源与资讯",
+    "officialLinks": {
+      "gnto": "希腊国家旅游组织",
+      "crete": "克里特大区官方旅游",
+      "chaniaCity": "哈尼亚市政府及官方旅游局",
+      "portAuthority": "哈尼亚市属港口基金会",
+      "archaeological": "希腊国家考古地籍系统",
+      "culture": "希腊国家文化遗产数字检索库"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "officialManagement": {
+    "title": "关于哈尼亚老威尼斯港口",
+    "text": "哈尼亚老威尼斯港口由希腊文化和体育部管理和保护。该区域被列为受保护的历史遗址，是希腊文化遗产保护工作的一部分。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "信息收集",
+        "content": "当您访问我们的网站时，我们可能会自动收集有关您的设备、浏览器和浏览行为的基本信息，以提供更好的用户体验。此信息不包含您的个人身份。"
+      },
+      {
+        "heading": "Cookie的使用",
+        "content": "我们使用cookie来分析网站流量并优化页面内容。您可以随时通过网站底部的"Cookie设置"选项管理您的偏好。"
+      },
+      {
+        "heading": "数据安全与保护",
+        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给第三方商业组织。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "网站内容与使用",
+        "content": "本网站提供有关哈尼亚老威尼斯港口的旅游、交通和历史信息。所有内容仅供参考。实际开放时间和景点信息可能随时更改；请参考官方公告。"
+      },
+      {
+        "heading": "知识产权",
+        "content": "本网站上的文本、图像和设计受版权保护。未经明确书面许可，任何人不得将网站内容用于商业目的。"
+      },
+      {
+        "heading": "免责声明",
+        "content": "我们努力确保信息的准确性和及时性，但对于因使用本网站提供的信息而直接或间接导致的旅行延误或损失，我们不承担法律责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的 Cookie 偏好。",
+    "essential": {
+      "title": "必要的 Cookie",
+      "description": "基本网站功能所必需的，无法禁用。",
+      "badge": "始终开启"
+    },
+    "analytics": {
+      "title": "分析",
+      "description": "帮助我们了解访问者行为并改进网站。"
+    },
+    "marketing": {
+      "title": "营销",
+      "description": "用于跨站跟踪和提供个性化广告。"
+    },
+    "save": "保存偏好",
+    "saved": "偏好已保存！"
+  }
+}

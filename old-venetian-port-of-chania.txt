@@ -1,0 +1,152 @@
+old-venetian-port-of-chania
+
+
+
+我们网站是
+XXXXXXXXXX
+检查一遍看下是否有错误
+
+
+
+
+你正在用（Next.js开发）
+为一个新景点【Old Venetian Port of Chania 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+希腊
+克里特大区	Old Venetian Port of Chania
+
+Old Venetian Port of Chania
+Παλαιό Ενετικό Λιμάνι Χανίων
+4.8(40,488)
+古迹地标
+Ag. Markou 8, Chania 731 32, Greece
+G289+V2 Chania, Greece
+
+https://maps.app.goo.gl/2ABtjDZz3dGynkJV8
+
+
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Downloads\希腊\old-venetian-port-of-chania\public\gallery
+
+
+删除原先友情链接，新增以下友情链接
+
+
+希腊国家旅游组织（GNTO） 
+https://www.visitgreece.gr/inspirations/the_old_port_area_of_chania/
+克里特大区官方旅游
+https://www.incrediblecrete.gr/
+哈尼亚市政府及官方旅游局
+https://www.chaniatourism.gr/
+哈尼亚市属港口基金会
+https://www.dlx.gr/enetiko-limani-2-2/
+希腊国家考古地籍系统 (Archaeological Cadastre)
+https://www.arxaiologikoktimatologio.gov.gr/
+希腊国家文化遗产数字检索库
+https://www.searchculture.gr/aggregator/
+
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/2ABtjDZz3dGynkJV8
+页面一共四个链接每一个都需要修改
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+删除 探索更多 板块
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/2ABtjDZz3dGynkJV8
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/2ABtjDZz3dGynkJV8
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/2ABtjDZz3dGynkJV8
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/2ABtjDZz3dGynkJV8
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+新增
+希腊语
+
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+
+
+买域名推荐
+
+
+
+
+我们网站是
+检查下有没有错误
+
+
+
+给我五个国家级、大区级、市级到专业遗产数据库的完整链条
+
+严格限制为国家及地方政府官方、官方官方旅游局的网站友情链接，确保全部具备纯正的官方政府背景： 
+
+
+
+
+
+
+抱歉理解出现了偏差。如果您只需要**希腊（Greece）** 👉 **克里特大区（Crete）** 👉 **哈尼亚市（Chania）** 👉 **哈尼亚古威尼斯港（Old Venetian Port of Chania）** 这个特定景点的完整官方数据及介绍链条，以下是专门针对该景点的5个官方级、具备纯正政府背景的链条及链接：
+
+### 1. 国家级 (National Level)：希腊国家旅游组织官方专页
+
+这是希腊国家旅游组织（GNTO / 希腊旅游部直属）专门针对哈尼亚旧港建立的官方页面，作为国家级对外推广的最高接口。
+
+* **机构**：希腊国家旅游组织 (Visit Greece)
+* **页面指向**：The Old Port Area of Chania (哈尼亚旧港区)
+* **官方网址**：[visitgreece.gr/inspirations/the_old_port_area_of_chania/](https://visitgreece.gr/inspirations/the_old_port_area_of_chania/)
+
+### 2. 大区级 (Regional Level)：克里特大区官方旅游文化门户
+
+克里特大区（Region of Crete）地方政府拥有专属的旅游与文化官方宣传平台。该平台整合了该大区下辖最重要的地标，其中就包含了对哈尼亚威尼斯港（Venetian Harbour）的官方介绍。
+
+* **机构**：克里特大区政府 (Region of Crete)
+* **页面指向**：Incredible Crete (克里特大区官方旅游文化网 - 哈尼亚版块)
+* **官方网址**：[incrediblecrete.gr](https://www.incrediblecrete.gr/) *(此为大区政府认证网址，归属于 crete.gov.gr 行政架构下)*
+
+### 3. 市级 (Municipal Level)：哈尼亚市政府及官方旅游局
+
+哈尼亚市政厅直接统筹该市的文旅资产，其市政官方旅游局（Chania Tourism）是了解该古迹最权威的市级行政官方渠道。
+
+* **机构**：哈尼亚市政府 (Municipality of Chania) / 官方旅游局
+* **页面指向**：哈尼亚市官方旅游指南 - 威尼斯港口地标
+* **官方网址**：[chaniatourism.com](http://www.chaniatourism.com/) *(哈尼亚市政厅主管的官方入口)* / [chania.gr](https://www.chania.gr) *(市政官方政务网)*
+
+### 4. 地方专管机构级 (Specific Authority)：哈尼亚市属港口基金会
+
+作为具体落实到该特定景点的“管委会”级别，哈尼亚市属港口基金会是真正具体负责“哈尼亚威尼斯旧港”商业规范、古迹维护资金与靠泊管理的官方政府机构。
+
+* **机构**：哈尼亚市属港口基金会 (Municipal Port Fund of Chania / Δημοτικό Λιμενικό Ταμείο Χανίων)
+* **页面指向**：Ενετικό Λιμάνι (威尼斯港官方专页，包含建筑管理政策及游览信息)
+* **官方网址**：[dlx.gr/enetiko-limani-2-2/](https://www.dlx.gr/enetiko-limani-2-2/) *(DLX为哈尼亚直属港口管理机构)*
+
+### 5. 专业遗产数据库 (Heritage Database)：希腊文化部·国家古迹名录
+
+在此数据库中，哈尼亚威尼斯旧港及其核心构筑物（如旧港的威尼斯灯塔、防波堤、威尼斯船坞等）均登记在册，是古迹历史建档、修复标准的最高查询依据。
+
+* **机构**：希腊文化与体育部 (Ministry of Culture and Sports)
+* **页面指向**：“奥德修斯”数字文化遗产节点 (Odysseus Portal)
+* **官方网址**：[odysseus.culture.gr](http://odysseus.culture.gr) *(希腊唯一的国家级纯正考古与古迹官方数据库，旧港相关要塞及航海遗产均挂牌于此门户中)*
+
