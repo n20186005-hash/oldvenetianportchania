@@ -31,7 +31,7 @@ export default function LanguageToggle() {
     if (next === locale) return;
     
     // Build the new path correctly
-    let cleanPath = pathname;
+    let cleanPath: string = pathname;
     
     // Remove the current locale from pathname if it exists
     for (const loc of routing.locales) {

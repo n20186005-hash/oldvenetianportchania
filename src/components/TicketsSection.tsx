@@ -17,7 +17,7 @@ export default function TicketsSection() {
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-          {/* Park Free */}
+          {/* Port Area Free */}
           <div
             className="rounded-2xl p-6 sm:p-8"
             style={{ background: 'var(--bg-tertiary)', border: '2px solid var(--accent)' }}
@@ -40,7 +40,7 @@ export default function TicketsSection() {
             </div>
           </div>
 
-          {/* Parking */}
+          {/* Boat Tours */}
           <div
             className="rounded-2xl p-6 sm:p-8"
             style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
@@ -56,15 +56,15 @@ export default function TicketsSection() {
               </div>
               <div>
                 <h3 className="font-display text-xl font-semibold" style={{ color: 'var(--text-primary)' }}>
-                  {t('parking')}
+                  {t('boatTours')}
                 </h3>
-                <p className="text-2xl font-bold" style={{ color: 'var(--accent)' }}>{t('parkingPrice')}</p>
+                <p className="text-2xl font-bold" style={{ color: 'var(--accent)' }}>{t('boatToursPrice')}</p>
               </div>
             </div>
           </div>
         </div>
 
-        {/* Guided Tour */}
+        {/* Dining */}
         <div
           className="mt-6 rounded-xl p-5 flex items-start gap-4"
           style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--accent)' }}
@@ -75,8 +75,8 @@ export default function TicketsSection() {
             <line x1="12" y1="8" x2="12.01" y2="8"/>
           </svg>
           <div>
-            <p className="font-medium" style={{ color: 'var(--text-primary)' }}>{t('guided')}</p>
-            <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('guidedPrice')}</p>
+            <p className="font-medium" style={{ color: 'var(--text-primary)' }}>{t('dining')}</p>
+            <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('diningPrice')}</p>
           </div>
         </div>
       </div>
