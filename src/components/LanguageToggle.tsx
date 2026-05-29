@@ -1,8 +1,8 @@
 'use client';
 
 import { useLocale } from 'next-intl';
-import { usePathname, routing, type Locale } from '@/i18n/routing';
-import { useState, useRef, useEffect } from 'react';
+import { usePathname, useRouter, routing, type Locale } from '@/i18n/routing';
+import { useState, useRef, useEffect, useTransition } from 'react';
 
 const labels: Record<string, string> = {
   zh: '中文',
@@ -13,6 +13,8 @@ const labels: Record<string, string> = {
 export default function LanguageToggle() {
   const locale = useLocale();
   const pathname = usePathname();
+  const router = useRouter();
+  const [isPending, startTransition] = useTransition();
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
 
@@ -30,33 +32,9 @@ export default function LanguageToggle() {
     setOpen(false);
     if (next === locale) return;
     
-    // Build the new path correctly
-    let cleanPath: string = pathname;
-    
-    // Remove the current locale from pathname if it exists
-    for (const loc of routing.locales) {
-      if (cleanPath === `/${loc}` || cleanPath.startsWith(`/${loc}/`)) {
-        cleanPath = cleanPath.replace(`/${loc}`, '') || '/';
-        break;
-      }
-    }
-    
-    // If cleanPath is empty, set it to '/'
-    if (!cleanPath || cleanPath === '') {
-      cleanPath = '/';
-    }
-    
-    // Build new path with the new locale
-    let newPath;
-    if (next === routing.defaultLocale) {
-      // If switching to default locale, don't prefix
-      newPath = cleanPath;
-    } else {
-      // If switching to non-default locale, add prefix
-      newPath = `/${next}${cleanPath === '/' ? '' : cleanPath}`;
-    }
-    
-    window.location.href = newPath;
+    startTransition(() => {
+      router.replace(pathname, { locale: next });
+    });
   }
 
   return (

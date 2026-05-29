@@ -24,8 +24,7 @@ export default function BasicInfo() {
           <InfoCard title={t('city')} value={t('cityValue')} />
           <InfoCard title={t('googleRating')} value={t('googleRatingValue')} />
           <InfoCard title={t('plusCode')} value={t('plusCodeValue')} />
-          <InfoCard title={t('phone')} value={t('phoneValue')} />
-          <div className="md:col-span-2 lg:col-span-1">
+          <div className="md:col-span-1 lg:col-span-1">
             <InfoCard title={t('address')} value={t('addressValue')} />
           </div>
         </div>
