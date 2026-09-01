@@ -470,5 +470,104 @@
     },
     "save": "Enregistrer les préférences",
     "saved": "Préférences enregistrées !"
+  },
+  "weather": {
+    "title": "Climat & Météo",
+    "subtitle": "La Canée bénéficie d'un climat méditerranéen typique avec des étés longs et secs et des hivers doux et humides. Le microclimat du port est tempéré par la Mer de Crète, le rendant agréable à visiter la majeure partie de l'année.",
+    "spring": {
+      "months": "Printemps (mars – mai)",
+      "tempRange": "Température : 14 °C – 24 °C",
+      "precipitation": "Précipitations : 30 – 60 mm / mois",
+      "humidity": "Humidité : 55 – 70 %",
+      "sunshine": "Ensoleillement : 7 – 10 h / jour",
+      "notes": "Le printemps apporte des fleurs sauvages épanouies et des brises marines rafraîchissantes. La mer est encore fraîche pour la baignade mais idéale pour les promenades côtières et la photographie."
+    },
+    "summer": {
+      "months": "Été (juin – août)",
+      "tempRange": "Température : 23 °C – 32 °C",
+      "precipitation": "Précipitations : 0 – 10 mm / mois",
+      "humidity": "Humidité : 45 – 65 %",
+      "sunshine": "Ensoleillement : 11 – 13 h / jour",
+      "notes": "Jours secs et ensoleillés avec des vents meltemi rafraîchissants venant du nord. Les températures de la mer atteignent 24 – 27 °C, parfaites pour la baignade et les excursions en bateau. Le soleil de midi est fort."
+    },
+    "autumn": {
+      "months": "Automne (septembre – novembre)",
+      "tempRange": "Température : 16 °C – 27 °C",
+      "precipitation": "Précipitations : 30 – 90 mm / mois",
+      "humidity": "Humidité : 60 – 75 %",
+      "sunshine": "Ensoleillement : 5 – 9 h / jour",
+      "notes": "La mer reste chaude jusqu'en octobre. Les foules s'amincissent et la lumière devient douce et dorée — idéale pour la photographie au coucher du soleil et les repas décontractés au bord de l'eau."
+    },
+    "winter": {
+      "months": "Hiver (décembre – février)",
+      "tempRange": "Température : 8 °C – 16 °C",
+      "precipitation": "Précipitations : 100 – 150 mm / mois",
+      "humidity": "Humidité : 65 – 80 %",
+      "sunshine": "Ensoleillement : 3 – 6 h / jour",
+      "notes": "Doux et humide avec des orages occasionnels. Le port est calme et atmosphérique. Gels rares ; la neige tombe seulement sur les Montagnes Blanches à l'intérieur. Habillez-vous de couches chaudes."
+    },
+    "bestSeason": {
+      "title": "Période recommandée pour visiter",
+      "description": "Pour une expérience équilibrée de temps chaud, de foules gérables et de conditions de marche confortables, le printemps tardif (mai – début juin) et le début de l'automne (mi-septembre – octobre) sont considérés comme les périodes optimales. Les températures de la mer restent agréables pour la baignade jusqu'en octobre, et la chaleur de midi est moins intense qu'en juillet et août."
+    },
+    "tips": {
+      "title": "Conseils météo pratiques pour les visiteurs",
+      "uv": "Portez de la crème solaire, un chapeau à large bord et des lunettes de soleil à protection UV d'avril à octobre ; les niveaux UV peuvent être très élevés même par temps nuageux.",
+      "wind": "Attendez-vous à de forts vents meltemi du nord en juillet et août ; ils peuvent provoquer des mers agitées soudaines et des annulations occasionnelles de ferries.",
+      "rain": "Emportez un parapluie de voyage compact en hiver et à la fin de l'automne ; des averses courtes mais fortes peuvent survenir entre novembre et mars.",
+      "water": "La température de l'eau de mer atteint son pic à la fin août et début septembre (26 – 27 °C) ; elle est la plus fraîche en mars et avril (environ 16 °C).",
+      "clothing": "Prévoyez des vêtements légers et respirants en été ; apportez une veste légère ou un cardigan toute l'année pour les soirées fraîches et le vent meltemi.",
+      "hours": "Planifiez les visites touristiques en plein air et les promenades au port tôt le matin ou en fin d'après-midi en été ; réservez les heures de midi pour les musées intérieurs, les cafés ombragés ou une sieste."
+    },
+    "disclaimer": {
+      "label": "Note sur les données météorologiques",
+      "text": "Les chiffres climatiques ci-dessus sont des moyennes historiques à long terme compilées par le Service météorologique national hellénique (HNMS). Les conditions réelles peuvent varier d'une année à l'autre. Pour les prévisions en temps réel pendant votre visite, consultez un service météorologique officiel."
+    }
+  },
+  "weatherForecast": {
+    "title": "Météo en direct & prévisions sur 5 jours",
+    "subtitle": "Observations météorologiques actuelles pour le quartier du port de La Canée, mises à jour toutes les 30 minutes, ainsi qu'une perspective sur cinq jours incluant les prévisions quotidiennes de précipitations et de vent.",
+    "unavailable": "Les données météorologiques en direct sont temporairement indisponibles. L'API météorologique en amont est peut-être inaccessible ; veuillez réessayer ultérieurement ou consulter un service météorologique officiel pour les conditions actuelles.",
+    "feelsLike": "Ressenti",
+    "humidity": "Humidité",
+    "wind": "Vent",
+    "precipitation": "Précipitations",
+    "asOf": "Mis à jour (EET)",
+    "forecast": {
+      "title": "Perspective sur cinq jours",
+      "today": "Aujourd'hui",
+      "rain": "Pluie",
+      "wind": "Vent max."
+    },
+    "directions": {
+      "N": "N",
+      "NE": "NE",
+      "E": "E",
+      "SE": "SE",
+      "S": "S",
+      "SW": "SO",
+      "W": "O",
+      "NW": "NO"
+    },
+    "conditions": {
+      "clear_day": "Ciel dégagé",
+      "clear_night": "Nuit dégagée",
+      "partly_cloudy_day": "Partiellement nuageux",
+      "partly_cloudy_night": "Partiellement nuageux",
+      "cloudy": "Couvert",
+      "fog": "Brouillard ou givre",
+      "drizzle": "Bruine",
+      "rain": "Pluie",
+      "snow": "Neige",
+      "showers": "Averses",
+      "snow_showers": "Averses de neige",
+      "thunderstorm": "Orage"
+    },
+    "dataSource": {
+      "label": "Source des données & périmètre",
+      "text": "Les observations en direct et les données de prévision sont fournies par {provider}, un service météorologique ouvert non commercial, pour la paire de coordonnées {lat}°N, {lon}°E couvrant le quartier du Vieux Port de La Canée.",
+      "timezone": "Fuseau horaire : Europe/Athens (EET/EEST)",
+      "refresh": "Mis en cache côté serveur pendant 30 minutes"
+    }
   }
 }

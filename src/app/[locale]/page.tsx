@@ -5,6 +5,8 @@ import TableOfContents from '@/components/TableOfContents';
 import Intro from '@/components/Intro';
 import BasicInfo from '@/components/BasicInfo';
 import HoursSection from '@/components/HoursSection';
+import WeatherSection from '@/components/WeatherSection';
+import WeatherForecast from '@/components/WeatherForecast';
 import TicketsSection from '@/components/TicketsSection';
 import TransportSection from '@/components/TransportSection';
 import FacilitiesSection from '@/components/FacilitiesSection';
@@ -88,6 +90,8 @@ export default async function HomePage({
         <Intro />
         <BasicInfo />
         <HoursSection />
+        <WeatherSection />
+        <WeatherForecast locale={locale} />
         <TicketsSection />
         <TransportSection />
         <FacilitiesSection />

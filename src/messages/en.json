@@ -470,5 +470,104 @@
     },
     "save": "Save Preferences",
     "saved": "Preferences Saved!"
+  },
+  "weather": {
+    "title": "Climate & Weather",
+    "subtitle": "Chania enjoys a typical Mediterranean climate with long, dry summers and mild, wet winters. The harbor's microclimate is moderated by the Cretan Sea, making it pleasant to visit for most of the year.",
+    "spring": {
+      "months": "Spring (March – May)",
+      "tempRange": "Temperature: 14 °C – 24 °C",
+      "precipitation": "Rainfall: 30 – 60 mm / month",
+      "humidity": "Humidity: 55 – 70 %",
+      "sunshine": "Sunshine: 7 – 10 h / day",
+      "notes": "Spring brings blooming wildflowers and refreshing sea breezes. The sea is still cool for swimming but ideal for coastal walks and photography."
+    },
+    "summer": {
+      "months": "Summer (June – August)",
+      "tempRange": "Temperature: 23 °C – 32 °C",
+      "precipitation": "Rainfall: 0 – 10 mm / month",
+      "humidity": "Humidity: 45 – 65 %",
+      "sunshine": "Sunshine: 11 – 13 h / day",
+      "notes": "Dry, sunny days with cooling meltemi winds from the north. Sea temperatures reach 24 – 27 °C, perfect for swimming and boat trips. Midday sun is strong."
+    },
+    "autumn": {
+      "months": "Autumn (September – November)",
+      "tempRange": "Temperature: 16 °C – 27 °C",
+      "precipitation": "Rainfall: 30 – 90 mm / month",
+      "humidity": "Humidity: 60 – 75 %",
+      "sunshine": "Sunshine: 5 – 9 h / day",
+      "notes": "The sea stays warm well into October. Crowds thin out and the light becomes soft and golden — ideal for sunset photography and relaxed waterfront dining."
+    },
+    "winter": {
+      "months": "Winter (December – February)",
+      "tempRange": "Temperature: 8 °C – 16 °C",
+      "precipitation": "Rainfall: 100 – 150 mm / month",
+      "humidity": "Humidity: 65 – 80 %",
+      "sunshine": "Sunshine: 3 – 6 h / day",
+      "notes": "Mild and humid with occasional storms. The port is quiet and atmospheric. Rare frosts; snow falls only on the White Mountains inland. Dress in warm layers."
+    },
+    "bestSeason": {
+      "title": "Recommended Season to Visit",
+      "description": "For a balanced experience of warm weather, manageable crowds and comfortable walking conditions, late spring (May – early June) and early autumn (mid-September – October) are considered the optimal periods. Sea temperatures remain pleasant for swimming well into October, and the midday heat is less intense than in July and August."
+    },
+    "tips": {
+      "title": "Practical Weather Tips for Visitors",
+      "uv": "Wear sunscreen, a wide-brimmed hat and UV-protective sunglasses from April to October; UV levels can be very high even on cloudy days.",
+      "wind": "Expect strong northerly meltemi winds in July and August; they can cause sudden choppy seas and occasional ferry cancellations.",
+      "rain": "Carry a compact travel umbrella in winter and late autumn; short but heavy downpours can occur between November and March.",
+      "water": "Sea water temperature peaks in late August and early September (26 – 27 °C); it is coolest in March and April (around 16 °C).",
+      "clothing": "Pack lightweight, breathable clothing in summer; bring a light jacket or cardigan for cool evenings and the meltemi wind year-round.",
+      "hours": "Plan outdoor sightseeing and harbour walks in the early morning or late afternoon in summer; reserve the midday hours for indoor museums, shaded cafes or a siesta."
+    },
+    "disclaimer": {
+      "label": "Meteorological Data Note",
+      "text": "Climate figures above are historical long-term averages compiled from the Hellenic National Meteorological Service (HNMS). Actual conditions may vary year to year. For real-time forecasts during your visit, consult an official meteorological service."
+    }
+  },
+  "weatherForecast": {
+    "title": "Live Weather & 5-Day Forecast",
+    "subtitle": "Current meteorological observations for the Chania harbor area, refreshed every 30 minutes, plus a five-day outlook including daily precipitation and wind predictions.",
+    "unavailable": "Live weather data are temporarily unavailable. The upstream meteorological API may be unreachable; please check back later or consult an official weather service for current conditions.",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "precipitation": "Rainfall",
+    "asOf": "As of (EET)",
+    "forecast": {
+      "title": "Five-Day Outlook",
+      "today": "Today",
+      "rain": "Rain",
+      "wind": "Max wind"
+    },
+    "directions": {
+      "N": "N",
+      "NE": "NE",
+      "E": "E",
+      "SE": "SE",
+      "S": "S",
+      "SW": "SW",
+      "W": "W",
+      "NW": "NW"
+    },
+    "conditions": {
+      "clear_day": "Clear sky",
+      "clear_night": "Clear night",
+      "partly_cloudy_day": "Partly cloudy",
+      "partly_cloudy_night": "Partly cloudy",
+      "cloudy": "Overcast",
+      "fog": "Fog or rime",
+      "drizzle": "Drizzle",
+      "rain": "Rain",
+      "snow": "Snow",
+      "showers": "Rain showers",
+      "snow_showers": "Snow showers",
+      "thunderstorm": "Thunderstorm"
+    },
+    "dataSource": {
+      "label": "Data Source & Scope",
+      "text": "Live observations and forecast data are provided by {provider}, an open non-commercial weather service, for the coordinate pair {lat}°N, {lon}°E covering the Chania Old Port district.",
+      "timezone": "Time zone: Europe/Athens (EET/EEST)",
+      "refresh": "Cached for 30 minutes on the server"
+    }
   }
 }

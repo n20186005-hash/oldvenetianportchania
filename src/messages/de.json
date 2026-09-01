@@ -470,5 +470,104 @@
     },
     "save": "Präferenzen speichern",
     "saved": "Präferenzen gespeichert!"
+  },
+  "weather": {
+    "title": "Klima & Wetter",
+    "subtitle": "Chania genießt ein typisch mediterranes Klima mit langen, trockenen Sommern und milden, feuchten Wintern. Das Mikroklima des Hafens wird durch das Kretaische Meer gemildert, sodass es den größten Teil des Jahres angenehm zu besuchen ist.",
+    "spring": {
+      "months": "Frühling (März – Mai)",
+      "tempRange": "Temperatur: 14 °C – 24 °C",
+      "precipitation": "Niederschlag: 30 – 60 mm / Monat",
+      "humidity": "Luftfeuchtigkeit: 55 – 70 %",
+      "sunshine": "Sonnenschein: 7 – 10 Std. / Tag",
+      "notes": "Der Frühling bringt blühende Wildblumen und erfrischende Meeresbrisen. Das Meer ist noch kühl zum Schwimmen, ideal für Küstenspaziergänge und Fotografie."
+    },
+    "summer": {
+      "months": "Sommer (Juni – August)",
+      "tempRange": "Temperatur: 23 °C – 32 °C",
+      "precipitation": "Niederschlag: 0 – 10 mm / Monat",
+      "humidity": "Luftfeuchtigkeit: 45 – 65 %",
+      "sunshine": "Sonnenschein: 11 – 13 Std. / Tag",
+      "notes": "Trockene, sonnige Tage mit kühlenden Meltemi-Winden aus dem Norden. Die Wassertemperaturen erreichen 24 – 27 °C, perfekt zum Schwimmen und für Bootstouren. Die Mittagssonne ist stark."
+    },
+    "autumn": {
+      "months": "Herbst (September – November)",
+      "tempRange": "Temperatur: 16 °C – 27 °C",
+      "precipitation": "Niederschlag: 30 – 90 mm / Monat",
+      "humidity": "Luftfeuchtigkeit: 60 – 75 %",
+      "sunshine": "Sonnenschein: 5 – 9 Std. / Tag",
+      "notes": "Das Meer bleibt bis weit in den Oktober warm. Die Massen dünnen sich aus und das Licht wird weich und golden — ideal für Sonnenuntergangsfotografie und entspanntes Essen am Wasser."
+    },
+    "winter": {
+      "months": "Winter (Dezember – Februar)",
+      "tempRange": "Temperatur: 8 °C – 16 °C",
+      "precipitation": "Niederschlag: 100 – 150 mm / Monat",
+      "humidity": "Luftfeuchtigkeit: 65 – 80 %",
+      "sunshine": "Sonnenschein: 3 – 6 Std. / Tag",
+      "notes": "Mild und feucht mit gelegentlichen Stürmen. Der Hafen ist ruhig und atmosphärisch. Selten Frost; Schnee fällt nur auf die Weißen Berge im Inland. Kleiden Sie sich in warmen Schichten."
+    },
+    "bestSeason": {
+      "title": "Empfohlene Reisezeit",
+      "description": "Für ein ausgewogenes Erlebnis aus warmem Wetter, überschaubaren Menschenmengen und angenehmen Gehbedingungen gelten der späte Frühling (Mai – Anfang Juni) und der frühe Herbst (Mitte September – Oktober) als optimale Zeiträume. Die Wassertemperaturen bleiben bis Oktober angenehm zum Schwimmen, und die Mittagshitze ist weniger intensiv als im Juli und August."
+    },
+    "tips": {
+      "title": "Praktische Wettertipps für Besucher",
+      "uv": "Tragen Sie von April bis Oktober Sonnencreme, einen breitkrempigen Hut und UV-schützende Sonnenbrille; die UV-Werte können auch an bewölkten Tagen sehr hoch sein.",
+      "wind": "Erwarten Sie im Juli und August starke nördliche Meltemi-Winde; sie können plötzliche, unruhige See und gelegentliche Fährausfälle verursachen.",
+      "rain": "Nehmen Sie im Winter und späten Herbst einen kompakten Regenschirm mit; zwischen November und März können kurze aber kräftige Schauer auftreten.",
+      "water": "Die Wassertemperatur erreicht Ende August und Anfang September ihren Höhepunkt (26 – 27 °C); am kühlsten ist sie im März und April (ca. 16 °C).",
+      "clothing": "Packen Sie im Sommer leichte, atmungsaktive Kleidung; bringen Sie das ganze Jahr über eine leichte Jacke oder einen Cardigan für kühle Abende und den Meltemi-Wind mit.",
+      "hours": "Planen Sie im Sommer Sightseeing im Freien und Hafenspaziergänge am frühen Morgen oder späten Nachmittag; nutzen Sie die Mittagsstunden für Museen in Innenräumen, schattige Cafés oder eine Siesta."
+    },
+    "disclaimer": {
+      "label": "Hinweis zu meteorologischen Daten",
+      "text": "Die obigen Klimazahlen sind historische langfristige Durchschnittswerte, zusammengestellt vom Griechischen Nationalen Wetterdienst (HNMS). Die tatsächlichen Bedingungen können von Jahr zu Jahr variieren. Für Echtzeitvorhersagen während Ihres Besuchs konsultieren Sie einen offiziellen Wetterdienst."
+    }
+  },
+  "weatherForecast": {
+    "title": "Aktuelles Wetter & 5-Tage-Vorhersage",
+    "subtitle": "Aktuelle meteorologische Beobachtungen für den Hafen von Chania, alle 30 Minuten aktualisiert, sowie eine Fünf-Tage-Aussicht mit täglichen Niederschlags- und Windprognosen.",
+    "unavailable": "Live-Wetterdaten sind vorübergehend nicht verfügbar. Die übergeordnete Wetter-API kann möglicherweise nicht erreicht werden; versuchen Sie es später erneut oder konsultieren Sie einen offiziellen Wetterdienst für die aktuellen Bedingungen.",
+    "feelsLike": "Gefühlt",
+    "humidity": "Luftfeuchte",
+    "wind": "Wind",
+    "precipitation": "Niederschlag",
+    "asOf": "Stand (EET)",
+    "forecast": {
+      "title": "Fünf-Tage-Aussicht",
+      "today": "Heute",
+      "rain": "Regen",
+      "wind": "Max. Wind"
+    },
+    "directions": {
+      "N": "N",
+      "NE": "NO",
+      "E": "O",
+      "SE": "SO",
+      "S": "S",
+      "SW": "SW",
+      "W": "W",
+      "NW": "NW"
+    },
+    "conditions": {
+      "clear_day": "Klarer Himmel",
+      "clear_night": "Klare Nacht",
+      "partly_cloudy_day": "Teilweise bewölkt",
+      "partly_cloudy_night": "Teilweise bewölkt",
+      "cloudy": "Bedeckt",
+      "fog": "Nebel oder Reif",
+      "drizzle": "Nieselregen",
+      "rain": "Regen",
+      "snow": "Schnee",
+      "showers": "Schauer",
+      "snow_showers": "Schneeschauer",
+      "thunderstorm": "Gewitter"
+    },
+    "dataSource": {
+      "label": "Datenquelle & Geltungsbereich",
+      "text": "Live-Beobachtungen und Vorhersagedaten werden von {provider}, einem offenen nichtkommerziellen Wetterdienst, bereitgestellt, für das Koordinatenpaar {lat}°N, {lon}°O, das den Alten Hafen von Chania abdeckt.",
+      "timezone": "Zeitzone: Europe/Athens (EET/EEST)",
+      "refresh": "Serverseitig 30 Minuten zwischengespeichert"
+    }
   }
 }

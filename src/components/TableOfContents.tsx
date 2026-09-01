@@ -5,6 +5,8 @@ export default function TableOfContents() {
   const tIntro = useTranslations('intro');
   const tBasic = useTranslations('basicInfo');
   const tHours = useTranslations('hours');
+  const tWeather = useTranslations('weather');
+  const tWeatherForecast = useTranslations('weatherForecast');
   const tTickets = useTranslations('tickets');
   const tTransport = useTranslations('transport');
   const tFacilities = useTranslations('facilities');
@@ -22,6 +24,8 @@ export default function TableOfContents() {
     { id: 'intro', label: tIntro('title') },
     { id: 'basic-info', label: tBasic('title') },
     { id: 'hours', label: tHours('title') },
+    { id: 'weather', label: tWeather('title') },
+    { id: 'weather-forecast', label: tWeatherForecast('title') },
     { id: 'tickets', label: tTickets('title') },
     { id: 'transport', label: tTransport('title') },
     { id: 'facilities', label: tFacilities('title') },
