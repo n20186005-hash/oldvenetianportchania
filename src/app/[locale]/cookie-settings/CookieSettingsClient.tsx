@@ -71,6 +71,7 @@ export default function CookieSettingsClient() {
     localStorage.setItem('cookiePrefs', JSON.stringify({ analytics, marketing }));
     setSaved(true);
     setTimeout(() => setSaved(false), 2000);
+    window.dispatchEvent(new Event('consent-updated'));
   }
 
   return (

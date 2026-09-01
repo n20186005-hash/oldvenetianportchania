@@ -1,27 +1,30 @@
 {
   "meta": {
-    "title": "Old Venetian Port of Chania – Chania, Greece",
-    "description": "Complete travel guide to the Old Venetian Port of Chania. Learn about this historic landmark, including location, history, visiting information, and visitor reviews."
+    "title": "Old Venetian Port of Chania (Chania) - Visitor Guide & Location",
+    "description": "Discover Old Venetian Port of Chania, the iconic harbor in Chania, Crete, Greece. View location map, opening details, nearby Venetian Lighthouse, Firkas Fortress and travel tips."
   },
   "header": {
     "home": "Home",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
-    "backToHome": "Back to Home"
+    "backToHome": "Back to Home",
+    "toc": "On This Page"
   },
   "hero": {
-    "title": "Old Venetian Port of Chania",
-    "subtitle": "Historic Landmark · Crete, Greece",
+    "title": "Old Venetian Port of Chania (Chania)",
+    "subtitle": "Visitor Guide & Location · Historic Landmark in Crete, Greece",
+    "imgAlt": "Old Venetian Port of Chania - historic harbor in Chania, Crete, Greece",
     "rating": "4.8",
-    "reviewCount": "40,488 reviews",
+    "reviewCount": "42,053 reviews",
     "type": "Historic Port",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/2ABtjDZz3dGynkJV8"
   },
   "intro": {
-    "title": "Discover Old Venetian Port of Chania",
-    "description": "The Old Venetian Port of Chania is one of the most iconic landmarks in Crete, Greece. Built during the Venetian period (1204-1669), it features picturesque architecture, colorful buildings, and a historic lighthouse. This charming harbor is the heart of Chania's old town and a must-visit destination for travelers.",
+    "title": "Your Guide to Chania & the Venetian Port",
+    "description": "The Old Venetian Port of Chania is the heart of Chania's old town and one of the most iconic landmarks in Crete, Greece. Built during the Venetian period (1204-1669), it captivates visitors with its picturesque architecture, colorful buildings and historic lighthouse. Whether you are planning what to see in Chania, searching for the best waterfront restaurants, or need parking information near the harbor, this complete guide covers everything you need.",
+    "breadcrumb": ["Old Venetian Port of Chania", "Chania", "Crete", "Greece"],
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
@@ -50,9 +53,19 @@
         "content": "The Old Venetian Port was constructed during the Venetian rule of Crete (1204-1669). It served as a vital trading hub in the Mediterranean. The port was expanded and fortified to protect against pirates and rival powers."
       },
       {
+        "id": "firkas",
+        "title": "The Fortress of Firkas & Harbor Defenses",
+        "content": "At the western end of the harbor stands the Fortress of Firkas, built by the Venetians in 1629 to guard the port entrance. Together with the lighthouse and the moles, it formed part of Chania's maritime defense ring. From its bastions, visitors enjoy panoramic views over the old harbor and the bay beyond."
+      },
+      {
         "id": "lighthouse",
         "title": "The Egyptian Lighthouse",
         "content": "The iconic lighthouse at the entrance of the port was built in the 16th century by the Venetians and later restructured by the Egyptians in the 19th century. It is one of the oldest lighthouses in the world."
+      },
+      {
+        "id": "trade",
+        "title": "A Maritime Trading Network",
+        "content": "In Venetian times the port connected Crete with Venice and the Eastern Mediterranean, exporting wine, olive oil and ceramics. The quays were lined with shipyards (the Arsenali), warehouses and customs offices, making Chania one of the busiest commercial ports of the Venetian East."
       },
       {
         "id": "architecture",
@@ -63,6 +76,42 @@
         "id": "cultural",
         "title": "Cultural Significance",
         "content": "The Old Port is the cultural and historical center of Chania. It hosts various festivals, events, and is a symbol of the city's diverse heritage spanning Venetian, Ottoman, and Greek periods."
+      }
+    ]
+  },
+  "stories": {
+    "title": "Stories & Legends of the Old Port",
+    "subtitle": "The harbor has witnessed centuries of history. Here are a few of the best-documented stories behind its stones.",
+    "items": [
+      {
+        "id": "arsenali",
+        "title": "The Arsenali: Shipyard of the Venetian Galleys",
+        "content": "The long vaulted halls along the eastern quay are the Arsenali, among the oldest surviving shipyards in the Mediterranean. Venetian galleys were built and maintained here, making the port a vital base for Venice's Eastern Mediterranean trade.",
+        "tag": "Maritime History"
+      },
+      {
+        "id": "lighthouse",
+        "title": "Why Is It Called the 'Egyptian' Lighthouse?",
+        "content": "The Venetians raised the first lighthouse at the harbor entrance in the late 16th century. In the 19th century, during the Egyptian administration of Crete (1830s–1841), the tower was rebuilt into the form seen today — which is why it is still called the Egyptian Lighthouse.",
+        "tag": "Lighthouse History"
+      },
+      {
+        "id": "ottoman",
+        "title": "The Ottoman Years by the Waterfront",
+        "content": "After the Ottomans captured Chania in 1645, the port area gained mosques, hammam baths and warehouses. The Küçük Hasan (Yali) Mosque, built on the quay in the 17th century, still stands and now hosts art exhibitions.",
+        "tag": "Ottoman Legacy"
+      },
+      {
+        "id": "great-powers",
+        "title": "The Great Powers and the Road to Greek Union",
+        "content": "From 1898, the Great Powers — Britain, France, Russia and Italy — administered Crete and anchored their warships in Chania harbor. The city became the seat of the autonomous Cretan State, and in 1913 the island was finally united with Greece.",
+        "tag": "Modern History"
+      },
+      {
+        "id": "battle-of-crete",
+        "title": "1941: The Battle of Crete",
+        "content": "In May 1941, during the German airborne invasion, Chania and its harbor were heavily bombed and saw intense street fighting. After the war the old port was gradually restored, and today its waterfront remains the historic heart of the city.",
+        "tag": "World War II"
       }
     ]
   },
@@ -79,7 +128,7 @@
     "city": "City",
     "cityValue": "Chania",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.8 (40,488)",
+    "googleRatingValue": "4.8 (42,053)",
     "address": "Address",
     "addressValue": "Ag. Markou 8, Chania 731 32, Greece",
     "plusCode": "Plus Code",
@@ -117,6 +166,48 @@
     "walkingDesc": "The port is pedestrian-friendly with scenic walking paths.",
     "driving": "Driving",
     "drivingDesc": "Parking available in nearby public parking areas."
+  },
+  "facilities": {
+    "title": "Visitor Facilities",
+    "subtitle": "A neutral guide to the facilities around the port — we only describe types, never specific businesses.",
+    "items": [
+      {
+        "id": "wc",
+        "title": "Public Restrooms",
+        "description": "Municipal public restrooms are located in the port area and the old town. Some cafes and restaurants provide facilities for customers only.",
+        "hint": "Public & customer-only"
+      },
+      {
+        "id": "parking",
+        "title": "Parking",
+        "description": "The old town and waterfront are pedestrian zones with restricted vehicle access. Several municipal car parks sit at the edge of the old town; spaces fill quickly in summer.",
+        "hint": "Limited in summer"
+      },
+      {
+        "id": "dining",
+        "title": "Restaurants & Cafes",
+        "description": "The waterfront promenade and the old town lanes are lined with cafes, seafood restaurants and traditional tavernas, from casual spots to fine dining.",
+        "hint": "All price ranges"
+      },
+      {
+        "id": "accommodation",
+        "title": "Hotels & Accommodation",
+        "description": "The old town offers boutique hotels, guesthouses and apartments, while larger hotels sit around the harbor and in the city center.",
+        "hint": "Book ahead in season"
+      },
+      {
+        "id": "shopping",
+        "title": "Supermarkets & Shops",
+        "description": "Small supermarkets (mini markets), bakeries, souvenir shops and pharmacies are within walking distance of the port.",
+        "hint": "Walkable from the port"
+      },
+      {
+        "id": "fuel",
+        "title": "Fuel & EV Charging",
+        "description": "Fuel stations are available around the city. Electric vehicle charging points are being added at some public car parks and hotels.",
+        "hint": "Charging network growing"
+      }
+    ]
   },
   "route": {
     "title": "Recommended Route",
@@ -232,7 +323,75 @@
   "mapSection": {
     "title": "Map Location",
     "subtitle": "Ag. Markou 8, Chania 731 32, Greece",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "officialText": "For official updates and regional tourism information, visit",
+    "officialLabel": "the Greek National Tourism Organization"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Quick answers to the most common visitor questions about the Old Venetian Port of Chania.",
+    "items": [
+      {
+        "q": "Where is the Old Venetian Port of Chania located?",
+        "a": "The Old Venetian Port of Chania is located at Ag. Markou 8, in the heart of Chania's old town on the island of Crete, Greece."
+      },
+      {
+        "q": "Is the Old Venetian Port free to visit?",
+        "a": "Yes. The port area and the waterfront promenade are public spaces, open free of charge all year round, 24 hours a day."
+      },
+      {
+        "q": "Where can I park near the old port?",
+        "a": "The old town and waterfront are pedestrian zones with restricted vehicle access. Several municipal car parks are located at the edge of the old town; spaces fill quickly in summer."
+      },
+      {
+        "q": "What are the best photo spots at the old port?",
+        "a": "The most iconic spots are the Egyptian Lighthouse at the breakwater, the eastern quay with the Venetian Arsenali, and the western pier for sunset views."
+      },
+      {
+        "q": "Is the old port suitable for visiting with children?",
+        "a": "Yes. The waterfront promenade is flat and easy to walk, with plenty of space for strollers. Keep an eye on little ones near the unguarded quayside edges and the breakwater."
+      },
+      {
+        "q": "Can I take a boat tour from the port?",
+        "a": "Yes. Local operators along the waterfront offer boat tours of the harbor and coastline. Prices and schedules vary by season."
+      },
+      {
+        "q": "Are there public restrooms at the port?",
+        "a": "Yes. Municipal public restrooms are located in the port area and the old town. Some cafes and restaurants provide facilities for customers only."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & References",
+    "subtitle": "The information on this page is compiled from the following official and institutional sources.",
+    "items": [
+      {
+        "name": "Greek National Tourism Organization (GNTO)",
+        "url": "https://www.visitgreece.gr/inspirations/the_old_port_area_of_chania/"
+      },
+      {
+        "name": "Greek Ministry of Culture and Sports",
+        "url": "https://www.culture.gov.gr/"
+      },
+      {
+        "name": "Chania City Government & Tourism",
+        "url": "https://www.chaniatourism.gr/"
+      },
+      {
+        "name": "Chania Port Authority",
+        "url": "https://www.dlx.gr/enetiko-limani-2-2/"
+      },
+      {
+        "name": "Incredible Crete - Official Tourism",
+        "url": "https://www.incrediblecrete.gr/"
+      },
+      {
+        "name": "Archaeological Cadastre",
+        "url": "https://www.arxaiologikoktimatologio.gov.gr/"
+      }
+    ],
+    "imageRightsTitle": "Image Credits",
+    "imageRights": "All photographs displayed on this website are the property of their respective photographers. All image copyrights belong to the original photographers and are used here for informational purposes only."
   },
   "footer": {
     "brandName": "Old Venetian Port of Chania",
@@ -250,7 +409,8 @@
       "archaeological": "Archaeological Cadastre",
       "culture": "National Cultural Heritage"
     },
-    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies.",
+    "imageRights": "All photos on this website are the property of their respective photographers. Image copyrights belong to the original photographers."
   },
   "officialManagement": {
     "title": "About Old Venetian Port of Chania",

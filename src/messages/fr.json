@@ -1,0 +1,474 @@
+{
+  "meta": {
+    "title": "Vieux Port Vénitien de La Canée (La Canée) - Guide & Localisation",
+    "description": "Découvrez le Vieux Port Vénitien, le port emblématique de La Canée, en Crète, Grèce. Carte, horaires, phare voisin et conseils pratiques."
+  },
+  "header": {
+    "home": "Accueil",
+    "gallery": "Galerie",
+    "reviews": "Avis",
+    "map": "Carte",
+    "backToHome": "Retour à l'accueil",
+    "toc": "Sur cette page"
+  },
+  "hero": {
+    "title": "Vieux Port Vénitien de La Canée (La Canée)",
+    "subtitle": "Guide & Localisation · Monument historique en Crète, Grèce",
+    "imgAlt": "Vieux Port Vénitien de La Canée - port historique à La Canée, en Crète",
+    "rating": "4.8",
+    "reviewCount": "42 053 avis",
+    "type": "Port historique",
+    "openMaps": "Voir sur Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/2ABtjDZz3dGynkJV8"
+  },
+  "intro": {
+    "title": "Votre guide de La Canée et de son Vieux Port",
+    "description": "Le Vieux Port Vénitien est le cœur de la vieille ville de La Canée et l'un des monuments les plus emblématiques de Crète. Construit pendant la période vénitienne (1204-1669), il séduit par son architecture pittoresque, ses bâtiments colorés et son phare historique. Toute visite de La Canée commence ici, entre arsenaux vénitiens, constructions ottomanes et l'animation du port.",
+    "breadcrumb": ["Vieux Port Vénitien de La Canée", "La Canée", "Crète", "Grèce"],
+    "visitGuide": {
+      "title": "Conseils de visite",
+      "items": [
+        "À visiter de préférence tôt le matin ou en fin d'après-midi pour éviter la foule.",
+        "Le coucher de soleil est le moment le plus magique pour profiter du port.",
+        "Goûtez les fruits de mer locaux dans les restaurants du bord de l'eau.",
+        "Apportez un appareil photo pour de superbes opportunités."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Points forts",
+      "items": [
+        "Port vénitien du XIVe siècle",
+        "Le phare emblématique de La Canée",
+        "Bâtiments vénitiens colorés",
+        "Arsenaux historiques (Arsenali)"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "À propos du Vieux Port Vénitien",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Histoire & Construction",
+        "content": "Le Vieux Port Vénitien a été construit pendant la domination vénitienne sur la Crète (1204-1669). Il servait de plaque tournante commerciale en Méditerranée. Le port a été agrandi et fortifié pour se protéger des pirates et des puissances rivales."
+      },
+      {
+        "id": "firkas",
+        "title": "La forteresse de Firkas & les défenses du port",
+        "content": "À l'extrémité ouest du port se dresse la forteresse de Firkas, construite par les Vénitiens en 1629 pour garder l'entrée du port. Avec le phare et les jetées, elle formait la ceinture de défense maritime de La Canée. Depuis ses bastions, les visiteurs profitent d'une vue panoramique sur le vieux port et la baie."
+      },
+      {
+        "id": "lighthouse",
+        "title": "Le phare de La Canée",
+        "content": "Le phare emblématique à l'entrée du port a été construit au XVIe siècle par les Vénitiens puis restructuré par les Égyptiens au XIXe siècle. C'est l'un des plus anciens phares du monde."
+      },
+      {
+        "id": "trade",
+        "title": "Un réseau de commerce maritime",
+        "content": "À l'époque vénitienne, le port reliait la Crète à Venise et à la Méditerranée orientale, exportant vin, huile d'olive et céramiques. Les quais étaient bordés de chantiers navals (les Arsenali), d'entrepôts et de douanes, faisant de La Canée l'un des ports marchands les plus actifs de l'Orient vénitien."
+      },
+      {
+        "id": "architecture",
+        "title": "Architecture & Préservation",
+        "content": "Le quartier du port présente une architecture vénitienne et ottomane remarquablement préservée. Les bâtiments abritent aujourd'hui restaurants, cafés et boutiques, créant une atmosphère vivante entre histoire et modernité."
+      },
+      {
+        "id": "cultural",
+        "title": "Importance culturelle",
+        "content": "Le Vieux Port est le centre culturel et historique de La Canée. Il accueille festivals et événements et symbolise le patrimoine diversifié de la ville, marqué par les périodes vénitienne, ottomane et grecque."
+      }
+    ]
+  },
+  "stories": {
+    "title": "Histoires & légendes du Vieux Port",
+    "subtitle": "Le port a traversé des siècles d'histoire. Voici quelques-unes des histoires les mieux documentées derrière ses pierres.",
+    "items": [
+      {
+        "id": "arsenali",
+        "title": "Les Arsenali : chantier des galères vénitiennes",
+        "content": "Les longues salles voûtées le long du quai est sont les Arsenali, parmi les plus anciens chantiers navals conservés de Méditerranée. Les galères vénitiennes y étaient construites et entretenues, faisant du port une base essentielle pour le commerce de Venise en Méditerranée orientale.",
+        "tag": "Histoire maritime"
+      },
+      {
+        "id": "lighthouse",
+        "title": "Pourquoi l'appelle-t-on le phare « égyptien » ?",
+        "content": "Les Vénitiens ont érigé le premier phare à l'entrée du port à la fin du XVIe siècle. Au XIXe siècle, pendant l'administration égyptienne de la Crète (années 1830–1841), la tour fut reconstruite dans sa forme actuelle — d'où son nom encore utilisé aujourd'hui.",
+        "tag": "Histoire du phare"
+      },
+      {
+        "id": "ottoman",
+        "title": "Les années ottomanes sur les quais",
+        "content": "Après la prise de La Canée par les Ottomans en 1645, la zone du port s'est enrichie de mosquées, de hammams et d'entrepôts. La mosquée Küçük Hasan (Yali), construite sur le quai au XVIIe siècle, se dresse toujours et accueille aujourd'hui des expositions d'art.",
+        "tag": "Héritage ottoman"
+      },
+      {
+        "id": "great-powers",
+        "title": "Les grandes puissances et la route vers l'union avec la Grèce",
+        "content": "À partir de 1898, les grandes puissances — Royaume-Uni, France, Russie et Italie — administrèrent la Crète et ancrèrent leurs navires de guerre dans le port de La Canée. La ville devint le siège de l'État crétois autonome et, en 1913, l'île fut enfin unie à la Grèce.",
+        "tag": "Histoire moderne"
+      },
+      {
+        "id": "battle-of-crete",
+        "title": "1941 : la bataille de Crète",
+        "content": "En mai 1941, lors de l'invasion aéroportée allemande, La Canée et son port furent lourdement bombardés et connurent d'intenses combats de rue. Après la guerre, le vieux port fut progressivement restauré et ses quais restent aujourd'hui le cœur historique de la ville.",
+        "tag": "Seconde Guerre mondiale"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informations pratiques",
+    "officialName": "Nom officiel",
+    "officialNameValue": "Old Venetian Port of Chania (Παλαιό Ενετικό Λιμάνι Χανίων)",
+    "type": "Type d'attraction",
+    "typeValue": "Monument historique / Port",
+    "country": "Pays",
+    "countryValue": "Grèce",
+    "region": "Région",
+    "regionValue": "Crète",
+    "city": "Ville",
+    "cityValue": "La Canée (Chania)",
+    "googleRating": "Note Google",
+    "googleRatingValue": "4.8 (42 053)",
+    "address": "Adresse",
+    "addressValue": "Ag. Markou 8, Chania 731 32, Grèce",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "G289+V2 La Canée, Grèce"
+  },
+  "hours": {
+    "title": "Horaires de visite",
+    "park": "Accès",
+    "parkTime": "Ouvert 24h/24, toute l'année",
+    "bestTime": "Meilleure période",
+    "bestTimeSpring": "Printemps : climat agréable, moins de touristes",
+    "bestTimeSummer": "Été : tôt le matin ou le soir pour éviter la chaleur",
+    "bestTimeAutumn": "Automne : temps doux, idéal pour se promener",
+    "bestTimeWinter": "Hiver : ambiance calme, parfaite pour la photo",
+    "tip": "Le port est gratuit à visiter. Les excursions en bateau et la restauration sont payantes."
+  },
+  "tickets": {
+    "title": "Informations d'entrée",
+    "park": "Zone du port",
+    "parkPrice": "Accès public gratuit",
+    "boatTours": "Excursions en bateau",
+    "boatToursPrice": "Disponibles auprès des opérateurs locaux (prix variables)",
+    "dining": "Restauration",
+    "diningPrice": "Restaurants et cafés en bord d'eau"
+  },
+  "transport": {
+    "title": "Comment s'y rendre",
+    "fromCenter": "Depuis l'aéroport de La Canée",
+    "fromCenterDesc": "À environ 15 km de l'aéroport international de La Canée. Prenez un taxi ou une voiture de location pour rejoindre le vieux port.",
+    "fromStation": "Depuis la gare routière",
+    "fromStationDesc": "Des bus locaux relient l'aéroport et le centre-ville à la vieille ville.",
+    "fromHotel": "Depuis les hôtels",
+    "fromHotelDesc": "La plupart des hôtels de la vieille ville de La Canée sont à distance de marche du port.",
+    "walking": "À pied",
+    "walkingDesc": "Le port est piétonnier, avec des promenades pittoresques.",
+    "driving": "En voiture",
+    "drivingDesc": "Parkings disponibles dans les zones publiques à proximité."
+  },
+  "facilities": {
+    "title": "Équipements pour les visiteurs",
+    "subtitle": "Un guide neutre des équipements autour du port — nous décrivons uniquement des types, jamais d'établissements précis.",
+    "items": [
+      {
+        "id": "wc",
+        "title": "Toilettes publiques",
+        "description": "Des toilettes publiques municipales sont situées dans la zone du port et la vieille ville. Certains cafés et restaurants réservent leurs installations à leurs clients.",
+        "hint": "Publiques & réservées aux clients"
+      },
+      {
+        "id": "parking",
+        "title": "Stationnement",
+        "description": "La vieille ville et les quais sont des zones piétonnes à accès restreint. Plusieurs parkings municipaux se trouvent en bordure de la vieille ville ; ils se remplissent vite en été.",
+        "hint": "Limité en été"
+      },
+      {
+        "id": "dining",
+        "title": "Restaurants & cafés",
+        "description": "La promenade du front de mer et les ruelles de la vieille ville regorgent de cafés, de restaurants de fruits de mer et de tavernes traditionnelles, du snack au restaurant gastronomique.",
+        "hint": "Tous les budgets"
+      },
+      {
+        "id": "accommodation",
+        "title": "Hôtels & hébergement",
+        "description": "La vieille ville propose hôtels de charme, maisons d'hôtes et appartements, tandis que des hôtels plus grands se trouvent autour du port et au centre-ville.",
+        "hint": "Réserver à l'avance en saison"
+      },
+      {
+        "id": "shopping",
+        "title": "Supermarchés & boutiques",
+        "description": "Petites supérettes (mini-market), boulangeries, boutiques de souvenirs et pharmacies sont à distance de marche du port.",
+        "hint": "Accessible à pied"
+      },
+      {
+        "id": "fuel",
+        "title": "Carburant & recharge électrique",
+        "description": "Des stations-service sont disponibles autour de la ville. Des bornes de recharge pour véhicules électriques sont ajoutées dans certains parkings publics et hôtels.",
+        "hint": "Réseau de recharge en expansion"
+      }
+    ]
+  },
+  "route": {
+    "title": "Itinéraire recommandé",
+    "overview": "Explorez le port historique et ses environs.",
+    "steps": [
+      "Commencer à l'entrée du port vénitien",
+      "Se promener le long de la promenade du front de mer",
+      "Visiter le phare au bout de la jetée",
+      "Explorer les arsenaux historiques (Arsenali)",
+      "Dîner dans un restaurant du bord de l'eau",
+      "Photographier le coucher de soleil depuis la jetée ouest"
+    ]
+  },
+  "photoSpots": {
+    "title": "Meilleurs spots photo",
+    "spots": [
+      {
+        "title": "Le phare",
+        "description": "Le symbole le plus emblématique du vieux port de La Canée.",
+        "location": "Jetée",
+        "image": "/gallery/old-venetian-port-of-chania (1).jpg"
+      },
+      {
+        "title": "Arsenaux vénitiens",
+        "description": "Arsenaux historiques à l'architecture impressionnante.",
+        "location": "Quai est",
+        "image": "/gallery/old-venetian-port-of-chania (2).jpg"
+      },
+      {
+        "title": "Promenade du front de mer",
+        "description": "Bâtiments colorés bordant le port.",
+        "location": "Bord du port",
+        "image": "/gallery/old-venetian-port-of-chania (3).jpg"
+      },
+      {
+        "title": "Point de vue du coucher de soleil",
+        "description": "Le meilleur endroit pour capturer l'heure dorée au port.",
+        "location": "Jetée ouest",
+        "image": "/gallery/old-venetian-port-of-chania (4).jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galerie photos",
+    "subtitle": "Le port historique de La Canée",
+    "captions": [
+      "Panorama du port vénitien",
+      "Le phare au coucher du soleil",
+      "Bâtiments colorés du front de mer",
+      "Arsenaux historiques",
+      "Rues de la vieille ville de La Canée",
+      "Vue du port depuis les hauteurs",
+      "Bateaux de pêche à l'aube",
+      "Détails de l'architecture vénitienne",
+      "Le port de nuit illuminé",
+      "Restaurants de fruits de mer en bord d'eau",
+      "Départ des excursions en bateau",
+      "Murs de la forteresse historique",
+      "Calme matinal au port",
+      "Reflets dans l'eau",
+      "Cafés et tavernes locaux",
+      "Vestiges archéologiques",
+      "Vue panoramique du port",
+      "Coucher de soleil sur le phare"
+    ],
+    "viewAll": "Voir sur Google Maps",
+    "showAll": "Voir toutes les photos",
+    "showLess": "Voir moins"
+  },
+  "reviews": {
+    "title": "Avis des visiteurs",
+    "declaration": "Les avis peuvent être consultés sur Google Maps.",
+    "moreReviews": "Voir plus d'avis sur Google Maps",
+    "items": [
+      {
+        "name": "John S.",
+        "rating": 5,
+        "date": "2026-04-10",
+        "text": "Endroit absolument magnifique ! Le port vénitien est magique au coucher du soleil. À ne pas manquer en Crète."
+      },
+      {
+        "name": "Maria K.",
+        "rating": 5,
+        "date": "2026-03-22",
+        "text": "Magnifique port historique avec une architecture étonnante. J'ai adoré les restaurants en bord d'eau et la vue sur le phare."
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "date": "2026-02-15",
+        "text": "L'un des endroits les plus charmants de Grèce. Les vieux bâtiments et l'atmosphère du port sont inoubliables."
+      },
+      {
+        "name": "Sophie R.",
+        "rating": 5,
+        "date": "2026-01-30",
+        "text": "Parfait pour une promenade romantique en soirée. Le phare et les lumières du port créent une atmosphère magique."
+      },
+      {
+        "name": "Alex P.",
+        "rating": 5,
+        "date": "2025-12-18",
+        "text": "Grande histoire et magnifiques paysages. Les excursions en bateau depuis le port sont vivement recommandées."
+      },
+      {
+        "name": "Emma W.",
+        "rating": 5,
+        "date": "2025-11-25",
+        "text": "Le vieux port de La Canée est tout simplement magnifique. Tant d'histoire et de charme. Ne manquez pas le coucher de soleil !"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Localisation sur la carte",
+    "subtitle": "Ag. Markou 8, Chania 731 32, Grèce",
+    "openMaps": "Voir sur Google Maps",
+    "officialText": "Pour les actualités officielles et les informations touristiques régionales, consultez",
+    "officialLabel": "l'Organisation nationale du tourisme grec (GNTO)"
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "subtitle": "Réponses rapides aux questions les plus courantes des visiteurs sur le Vieux Port Vénitien de La Canée.",
+    "items": [
+      {
+        "q": "Où se trouve le Vieux Port Vénitien de La Canée ?",
+        "a": "Le Vieux Port Vénitien se trouve au 8, rue Ag. Markou, au cœur de la vieille ville de La Canée, sur l'île de Crète, en Grèce."
+      },
+      {
+        "q": "La visite du Vieux Port est-elle gratuite ?",
+        "a": "Oui. La zone du port et la promenade des quais sont des espaces publics, accessibles gratuitement toute l'année, 24h/24."
+      },
+      {
+        "q": "Où puis-je me garer près du vieux port ?",
+        "a": "La vieille ville et les quais sont des zones piétonnes à accès restreint. Plusieurs parkings municipaux se trouvent en bordure de la vieille ville ; ils se remplissent vite en été."
+      },
+      {
+        "q": "Quels sont les meilleurs spots photo au vieux port ?",
+        "a": "Les spots les plus emblématiques sont le phare au bout de la jetée, le quai est avec les arsenaux vénitiens et la jetée ouest pour le coucher de soleil."
+      },
+      {
+        "q": "Le vieux port est-il adapté aux enfants ?",
+        "a": "Oui. La promenade des quais est plate et facile à parcourir, avec de la place pour les poussettes. Surveillez les enfants près des rebords non protégés des quais et de la jetée."
+      },
+      {
+        "q": "Puis-je faire une excursion en bateau depuis le port ?",
+        "a": "Oui. Des opérateurs locaux proposent des excursions en bateau dans le port et le long de la côte. Prix et horaires varient selon la saison."
+      },
+      {
+        "q": "Y a-t-il des toilettes publiques au port ?",
+        "a": "Oui. Des toilettes publiques municipales sont situées dans la zone du port et la vieille ville. Certains cafés et restaurants réservent leurs installations à leurs clients."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & Références",
+    "subtitle": "Les informations de cette page sont compilées à partir des sources officielles et institutionnelles suivantes.",
+    "items": [
+      {
+        "name": "Organisation nationale du tourisme grec (GNTO)",
+        "url": "https://www.visitgreece.gr/inspirations/the_old_port_area_of_chania/"
+      },
+      {
+        "name": "Ministère grec de la Culture et des Sports",
+        "url": "https://www.culture.gov.gr/"
+      },
+      {
+        "name": "Municipalité de La Canée & Tourisme officiel",
+        "url": "https://www.chaniatourism.gr/"
+      },
+      {
+        "name": "Fonds portuaire municipal de La Canée",
+        "url": "https://www.dlx.gr/enetiko-limani-2-2/"
+      },
+      {
+        "name": "Incredible Crete – Tourisme officiel",
+        "url": "https://www.incrediblecrete.gr/"
+      },
+      {
+        "name": "Cadastre archéologique de Grèce",
+        "url": "https://www.arxaiologikoktimatologio.gov.gr/"
+      }
+    ],
+    "imageRightsTitle": "Crédits des images",
+    "imageRights": "Toutes les photographies présentées sur ce site appartiennent à leurs photographes respectifs. Tous les droits d'auteur des images appartiennent aux photographes d'origine."
+  },
+  "footer": {
+    "brandName": "Vieux Port Vénitien de La Canée",
+    "brandSubtitle": "Monument historique · Crète, Grèce",
+    "rights": "© 2026 Projet indépendant de recherche touristique · Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "cookies": "Paramètres des cookies",
+    "officialResourcesTitle": "Ressources officielles & informations",
+    "officialLinks": {
+      "gnto": "Organisation nationale du tourisme grec (GNTO)",
+      "crete": "Incredible Crete – Tourisme officiel",
+      "chaniaCity": "Municipalité de La Canée & Tourisme officiel",
+      "portAuthority": "Fonds portuaire municipal de La Canée",
+      "archaeological": "Cadastre archéologique de Grèce",
+      "culture": "Patrimoine culturel national"
+    },
+    "disclaimer": "Ce site est un projet indépendant d'information touristique. Nous ne sommes affiliés ni au gouvernement local ni à aucune autre agence officielle.",
+    "imageRights": "Toutes les photos de ce site appartiennent à leurs photographes respectifs."
+  },
+  "officialManagement": {
+    "title": "À propos du Vieux Port Vénitien de La Canée",
+    "text": "Le Vieux Port Vénitien de La Canée est géré et protégé par le ministère grec de la Culture et des Sports. Le site est classé monument historique protégé et fait partie des efforts grecs de préservation du patrimoine culturel."
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "lastUpdated": "Dernière mise à jour : 31 août 2026",
+    "sections": [
+      {
+        "heading": "Collecte d'informations",
+        "content": "Lorsque vous visitez notre site, nous pouvons collecter automatiquement des informations de base sur votre appareil, votre navigateur et votre comportement de navigation afin d'améliorer votre expérience. Ces informations ne contiennent pas votre identité personnelle."
+      },
+      {
+        "heading": "Utilisation des cookies",
+        "content": "Nous utilisons des cookies pour analyser le trafic du site et optimiser le contenu des pages. Vous pouvez gérer vos préférences à tout moment via l'option Paramètres des cookies en bas de notre site."
+      },
+      {
+        "heading": "Sécurité et protection des données",
+        "content": "Nous nous engageons à protéger la sécurité de vos données privées et ne vendons, ne louons ni n'échangeons vos données de navigation avec des organisations commerciales tierces."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Conditions d'utilisation",
+    "lastUpdated": "Dernière mise à jour : 31 août 2026",
+    "sections": [
+      {
+        "heading": "Contenu et utilisation du site",
+        "content": "Ce site fournit des informations touristiques, de transport et historiques sur le Vieux Port Vénitien de La Canée. Tout le contenu est fourni à titre indicatif. Les horaires réels et les informations peuvent changer à tout moment ; veuillez vous référer aux annonces officielles."
+      },
+      {
+        "heading": "Propriété intellectuelle",
+        "content": "Les textes, images et designs de ce site sont protégés par le droit d'auteur. Sans autorisation écrite explicite, personne ne peut utiliser le contenu du site à des fins commerciales."
+      },
+      {
+        "heading": "Avertissement",
+        "content": "Nous nous efforçons de garantir l'exactitude et l'actualité des informations, mais nous ne pouvons être tenus responsables des retards ou pertes de voyage causés directement ou indirectement par l'utilisation des informations fournies sur ce site."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Paramètres des cookies",
+    "description": "Gérez vos préférences en matière de cookies.",
+    "essential": {
+      "title": "Cookies essentiels",
+      "description": "Nécessaires au fonctionnement de base du site, ils ne peuvent pas être désactivés.",
+      "badge": "Toujours actif"
+    },
+    "analytics": {
+      "title": "Analyse",
+      "description": "Nous aident à comprendre le comportement des visiteurs et à améliorer le site."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Utilisés pour le suivi intersites et la diffusion de publicités personnalisées."
+    },
+    "save": "Enregistrer les préférences",
+    "saved": "Préférences enregistrées !"
+  }
+}

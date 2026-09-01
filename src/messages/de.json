@@ -1,0 +1,474 @@
+{
+  "meta": {
+    "title": "Alter Venezianischer Hafen Chania (Chania) - Reiseführer & Lage",
+    "description": "Entdecken Sie den Alten Venezianischen Hafen, das Wahrzeichen in Chania, Kreta, Griechenland. Lagekarte, Öffnungszeiten, nahegelegener Leuchtturm und Reisetipps."
+  },
+  "header": {
+    "home": "Startseite",
+    "gallery": "Galerie",
+    "reviews": "Bewertungen",
+    "map": "Karte",
+    "backToHome": "Zurück zur Startseite",
+    "toc": "Auf dieser Seite"
+  },
+  "hero": {
+    "title": "Alter Venezianischer Hafen Chania (Chania)",
+    "subtitle": "Reiseführer & Lage · Historisches Wahrzeichen in Kreta, Griechenland",
+    "imgAlt": "Alter Venezianischer Hafen Chania - historischer Hafen in Chania, Kreta",
+    "rating": "4.8",
+    "reviewCount": "42.053 Bewertungen",
+    "type": "Historischer Hafen",
+    "openMaps": "Auf Google Maps ansehen",
+    "mapsLink": "https://maps.app.goo.gl/2ABtjDZz3dGynkJV8"
+  },
+  "intro": {
+    "title": "Ihr Reiseführer für Chania und den Venezianischen Hafen",
+    "description": "Der Alte Venezianische Hafen ist das Herz der Altstadt von Chania und eines der berühmtesten Wahrzeichen Kretas. Erbaut während der venezianischen Herrschaft (1204-1669), besticht er durch malerische Architektur, bunte Gebäude und den historischen Leuchtturm. Wer Chania Sehenswürdigkeiten erkunden möchte, beginnt hier – zwischen venezianischen Werften, osmanischen Bauten und dem lebendigen Hafenviertel.",
+    "breadcrumb": ["Alter Venezianischer Hafen Chania", "Chania", "Kreta", "Griechenland"],
+    "visitGuide": {
+      "title": "Besuchstipps",
+      "items": [
+        "Am besten früh morgens oder am späten Nachmittag besuchen, um Menschenmengen zu vermeiden.",
+        "Der Sonnenuntergang ist die magischste Zeit, um die Aussicht auf den Hafen zu genießen.",
+        "Probieren Sie lokale Meeresfrüchte in den Restaurants am Wasser.",
+        "Bringen Sie eine Kamera mit – hier warten großartige Fotomotive."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Höhepunkte",
+      "items": [
+        "Venezianischer Hafen aus dem 14. Jahrhundert",
+        "Der ikonische ägyptische Leuchtturm",
+        "Bunte venezianische Gebäude",
+        "Historische Werften (Arsenali)"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Über den Alten Venezianischen Hafen",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Geschichte & Bau",
+        "content": "Der Alte Venezianische Hafen wurde während der venezianischen Herrschaft über Kreta (1204-1669) erbaut. Er diente als wichtiges Handelszentrum im Mittelmeerraum. Der Hafen wurde erweitert und befestigt, um ihn vor Piraten und rivalisierenden Mächten zu schützen."
+      },
+      {
+        "id": "firkas",
+        "title": "Die Festung Firkas & die Hafenverteidigung",
+        "content": "Am westlichen Ende des Hafens steht die Festung Firkas, die 1629 von den Venezianern zum Schutz des Hafeneingangs erbaut wurde. Zusammen mit dem Leuchtturm und den Molen bildete sie den maritimen Verteidigungsring von Chania. Von ihren Bastionen genießen Besucher einen Panoramablick über den alten Hafen und die Bucht."
+      },
+      {
+        "id": "lighthouse",
+        "title": "Der ägyptische Leuchtturm",
+        "content": "Der markante Leuchtturm am Hafeneingang wurde im 16. Jahrhundert von den Venezianern erbaut und im 19. Jahrhundert von den Ägyptern umgebaut. Er gehört zu den ältesten Leuchttürmen der Welt."
+      },
+      {
+        "id": "trade",
+        "title": "Ein maritimes Handelsnetz",
+        "content": "In venezianischer Zeit verband der Hafen Kreta mit Venedig und dem östlichen Mittelmeer – exportiert wurden Wein, Olivenöl und Keramik. Die Kais waren gesäumt von Werften (Arsenali), Lagerhäusern und Zollhäusern, was Chania zu einem der geschäftigsten Handelshäfen des venezianischen Ostens machte."
+      },
+      {
+        "id": "architecture",
+        "title": "Architektur & Denkmalschutz",
+        "content": "Das Hafenviertel besticht durch gut erhaltene venezianische und osmanische Architektur. In den Gebäuden befinden sich heute Restaurants, Cafés und Geschäfte – eine lebendige Mischung aus Geschichte und Moderne."
+      },
+      {
+        "id": "cultural",
+        "title": "Kulturelle Bedeutung",
+        "content": "Der Alte Hafen ist das kulturelle und historische Zentrum von Chania. Hier finden Festivals und Veranstaltungen statt – ein Symbol für das vielfältige Erbe der Stadt aus venezianischer, osmanischer und griechischer Zeit."
+      }
+    ]
+  },
+  "stories": {
+    "title": "Geschichten & Legenden des Alten Hafens",
+    "subtitle": "Der Hafen hat Jahrhunderte der Geschichte erlebt. Hier sind einige der am besten belegten Geschichten hinter seinen Mauern.",
+    "items": [
+      {
+        "id": "arsenali",
+        "title": "Die Arsenali: Werft der venezianischen Galeeren",
+        "content": "Die langen Gewölbehallen am Ostkai sind die Arsenali – eine der ältesten erhaltenen Werften im Mittelmeerraum. Venezianische Galeeren wurden hier gebaut und gewartet und machten den Hafen zu einer wichtigen Basis für den Osthandel Venedigs.",
+        "tag": "Seefahrtsgeschichte"
+      },
+      {
+        "id": "lighthouse",
+        "title": "Warum heißt er „ägyptischer“ Leuchtturm?",
+        "content": "Die Venezianer errichteten den ersten Leuchtturm am Hafeneingang Ende des 16. Jahrhunderts. Im 19. Jahrhundert, während der ägyptischen Verwaltung Kretas (1830er–1841), wurde der Turm in der heutigen Form wiederaufgebaut – daher heißt er bis heute ägyptischer Leuchtturm.",
+        "tag": "Leuchtturm-Geschichte"
+      },
+      {
+        "id": "ottoman",
+        "title": "Die osmanischen Jahre an der Uferpromenade",
+        "content": "Nach der Eroberung Chanias durch die Osmanen 1645 kamen im Hafenbereich Moscheen, Hamams und Lagerhäuser hinzu. Die Küçük-Hasan-Moschee (Yali-Moschee), im 17. Jahrhundert am Kai erbaut, steht noch heute und beherbergt Kunstausstellungen.",
+        "tag": "Osmanisches Erbe"
+      },
+      {
+        "id": "great-powers",
+        "title": "Die Großmächte und der Weg zur Vereinigung mit Griechenland",
+        "content": "Ab 1898 verwalteten die Großmächte – Großbritannien, Frankreich, Russland und Italien – Kreta und ankerten ihre Kriegsschiffe im Hafen von Chania. Die Stadt wurde Sitz des autonomen kretischen Staates, und 1913 wurde die Insel schließlich mit Griechenland vereinigt.",
+        "tag": "Neuere Geschichte"
+      },
+      {
+        "id": "battle-of-crete",
+        "title": "1941: Die Schlacht um Kreta",
+        "content": "Im Mai 1941 wurden Chania und sein Hafen während der deutschen Luftlandeinvasion schwer bombardiert und erlebten heftige Straßenkämpfe. Nach dem Krieg wurde der alte Hafen nach und nach wiederhergestellt und seine Uferpromenade ist bis heute das historische Herz der Stadt.",
+        "tag": "Zweiter Weltkrieg"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basisinformationen",
+    "officialName": "Offizieller Name",
+    "officialNameValue": "Old Venetian Port of Chania (Παλαιό Ενετικό Λιμάνι Χανίων)",
+    "type": "Art der Attraktion",
+    "typeValue": "Historisches Wahrzeichen / Hafen",
+    "country": "Land",
+    "countryValue": "Griechenland",
+    "region": "Region",
+    "regionValue": "Kreta",
+    "city": "Stadt",
+    "cityValue": "Chania",
+    "googleRating": "Google-Bewertung",
+    "googleRatingValue": "4.8 (42.053)",
+    "address": "Adresse",
+    "addressValue": "Ag. Markou 8, Chania 731 32, Griechenland",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "G289+V2 Chania, Griechenland"
+  },
+  "hours": {
+    "title": "Öffnungszeiten",
+    "park": "Zugang",
+    "parkTime": "24 Stunden geöffnet, das ganze Jahr",
+    "bestTime": "Beste Reisezeit",
+    "bestTimeSpring": "Frühling: Angenehmes Wetter, weniger Touristen",
+    "bestTimeSummer": "Sommer: Früher Morgen oder Abend, um die Hitze zu vermeiden",
+    "bestTimeAutumn": "Herbst: Mildes Wetter, ideal für Spaziergänge",
+    "bestTimeWinter": "Winter: Ruhige Atmosphäre, perfekt für Fotos",
+    "tip": "Das Hafenviertel ist kostenlos zugänglich. Bootstouren und Restaurants kosten zusätzlich."
+  },
+  "tickets": {
+    "title": "Eintrittsinformationen",
+    "park": "Hafengebiet",
+    "parkPrice": "Kostenloser öffentlicher Zugang",
+    "boatTours": "Bootstouren",
+    "boatToursPrice": "Bei lokalen Anbietern erhältlich (Preise variieren)",
+    "dining": "Gastronomie",
+    "diningPrice": "Restaurants und Cafés direkt am Wasser"
+  },
+  "transport": {
+    "title": "Anreise",
+    "fromCenter": "Vom Flughafen Chania",
+    "fromCenterDesc": "Etwa 15 km vom internationalen Flughafen Chania entfernt. Mit dem Taxi oder Mietwagen zum Alten Hafen fahren.",
+    "fromStation": "Vom Busbahnhof",
+    "fromStationDesc": "Lokale Busse verbinden Flughafen und Stadtzentrum mit der Altstadt.",
+    "fromHotel": "Von den Hotels",
+    "fromHotelDesc": "Die meisten Hotels in der Altstadt von Chania erreichen den Hafen bequem zu Fuß.",
+    "walking": "Zu Fuß",
+    "walkingDesc": "Der Hafen ist fußgängerfreundlich mit malerischen Spazierwegen.",
+    "driving": "Mit dem Auto",
+    "drivingDesc": "Parkplätze gibt es in den nahegelegenen öffentlichen Parkbereichen."
+  },
+  "facilities": {
+    "title": "Besucher-Serviceeinrichtungen",
+    "subtitle": "Ein neutraler Leitfaden zu den Einrichtungen rund um den Hafen – wir beschreiben nur Arten, niemals konkrete Geschäfte.",
+    "items": [
+      {
+        "id": "wc",
+        "title": "Öffentliche Toiletten",
+        "description": "Im Hafenbereich und in der Altstadt gibt es öffentliche Toiletten der Stadt. Manche Cafés und Restaurants stellen Sanitäranlagen nur für Gäste bereit.",
+        "hint": "Öffentlich & nur für Gäste"
+      },
+      {
+        "id": "parking",
+        "title": "Parken",
+        "description": "Altstadt und Uferpromenade sind Fußgängerzonen mit eingeschränkter Fahrzeugzufahrt. Mehrere städtische Parkplätze liegen am Rand der Altstadt; im Sommer sind sie schnell belegt.",
+        "hint": "Im Sommer begrenzt"
+      },
+      {
+        "id": "dining",
+        "title": "Restaurants & Cafés",
+        "description": "Uferpromenade und Altstadtgassen sind gesäumt von Cafés, Fischrestaurants und traditionellen Tavernen – von einfachen Lokalen bis zur gehobenen Küche.",
+        "hint": "Alle Preisklassen"
+      },
+      {
+        "id": "accommodation",
+        "title": "Hotels & Unterkünfte",
+        "description": "Die Altstadt bietet Boutique-Hotels, Pensionen und Apartments, während größere Hotels rund um den Hafen und im Stadtzentrum liegen.",
+        "hint": "In der Saison früh buchen"
+      },
+      {
+        "id": "shopping",
+        "title": "Supermärkte & Geschäfte",
+        "description": "Kleine Supermärkte (Mini-Märkte), Bäckereien, Souvenirläden und Apotheken sind zu Fuß vom Hafen erreichbar.",
+        "hint": "Zu Fuß erreichbar"
+      },
+      {
+        "id": "fuel",
+        "title": "Tanken & E-Ladestationen",
+        "description": "Rund um die Stadt gibt es Tankstellen. An einigen öffentlichen Parkplätzen und Hotels werden Ladepunkte für Elektrofahrzeuge ergänzt.",
+        "hint": "Ladenetz wächst"
+      }
+    ]
+  },
+  "route": {
+    "title": "Empfohlene Route",
+    "overview": "Erkunden Sie den historischen Hafen und seine Umgebung.",
+    "steps": [
+      "Am Eingang des Venezianischen Hafens starten",
+      "Entlang der Uferpromenade spazieren",
+      "Den ägyptischen Leuchtturm am Wellenbrecher besuchen",
+      "Die historischen Werften (Arsenali) erkunden",
+      "In einem Restaurant am Wasser essen",
+      "Den Sonnenuntergang vom westlichen Pier aus fotografieren"
+    ]
+  },
+  "photoSpots": {
+    "title": "Top-Fotospots",
+    "spots": [
+      {
+        "title": "Der ägyptische Leuchtturm",
+        "description": "Das Wahrzeichen des alten Hafens von Chania.",
+        "location": "Wellenbrecher",
+        "image": "/gallery/old-venetian-port-of-chania (1).jpg"
+      },
+      {
+        "title": "Venezianische Werften",
+        "description": "Historische Schiffswerften mit beeindruckender Architektur.",
+        "location": "Östlicher Kai",
+        "image": "/gallery/old-venetian-port-of-chania (2).jpg"
+      },
+      {
+        "title": "Uferpromenade",
+        "description": "Bunte Gebäude säumen den Hafen.",
+        "location": "Hafenkante",
+        "image": "/gallery/old-venetian-port-of-chania (3).jpg"
+      },
+      {
+        "title": "Sonnenuntergangspunkt",
+        "description": "Der beste Ort, um die goldene Stunde am Hafen einzufangen.",
+        "location": "Westlicher Pier",
+        "image": "/gallery/old-venetian-port-of-chania (4).jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Fotogalerie",
+    "subtitle": "Der historische Hafen von Chania",
+    "captions": [
+      "Panorama des Venezianischen Hafens",
+      "Ägyptischer Leuchtturm bei Sonnenuntergang",
+      "Bunte Gebäude am Wasser",
+      "Historische Werften (Arsenali)",
+      "Straßen der Altstadt von Chania",
+      "Blick auf den Hafen von oben",
+      "Fischerboote im Morgengrauen",
+      "Venezianische Architekturdetails",
+      "Hafen bei Nacht mit Lichtern",
+      "Meeresfrüchte-Restaurants am Wasser",
+      "Bootstouren legen ab",
+      "Historische Festungsmauern",
+      "Morgenruhe am Hafen",
+      "Spiegelungen im Wasser",
+      "Lokale Cafés und Tavernen",
+      "Archäologische Überreste",
+      "Panoramablick auf den Hafen",
+      "Sonnenuntergang über dem Leuchtturm"
+    ],
+    "viewAll": "Auf Google Maps ansehen",
+    "showAll": "Alle Fotos anzeigen",
+    "showLess": "Weniger anzeigen"
+  },
+  "reviews": {
+    "title": "Besucherbewertungen",
+    "declaration": "Die Bewertungen können über Google Maps eingesehen werden.",
+    "moreReviews": "Weitere Bewertungen auf Google Maps ansehen",
+    "items": [
+      {
+        "name": "John S.",
+        "rating": 5,
+        "date": "2026-04-10",
+        "text": "Absolut atemberaubender Ort! Der Venezianische Hafen ist bei Sonnenuntergang magisch. Ein Muss auf Kreta."
+      },
+      {
+        "name": "Maria K.",
+        "rating": 5,
+        "date": "2026-03-22",
+        "text": "Wunderschöner historischer Hafen mit beeindruckender Architektur. Die Restaurants am Wasser und der Blick auf den Leuchtturm waren großartig."
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "date": "2026-02-15",
+        "text": "Einer der charmantesten Orte in Griechenland. Die alten Gebäude und die Atmosphäre des Hafens sind unvergesslich."
+      },
+      {
+        "name": "Sophie R.",
+        "rating": 5,
+        "date": "2026-01-30",
+        "text": "Perfekt für einen romantischen Abendspaziergang. Leuchtturm und Hafenlichter schaffen eine magische Stimmung."
+      },
+      {
+        "name": "Alex P.",
+        "rating": 5,
+        "date": "2025-12-18",
+        "text": "Großartige Geschichte und wunderschöne Landschaft. Die Bootstouren vom Hafen sind sehr zu empfehlen."
+      },
+      {
+        "name": "Emma W.",
+        "rating": 5,
+        "date": "2025-11-25",
+        "text": "Der alte Hafen von Chania ist einfach wunderschön. So viel Geschichte und Charme. Verpassen Sie nicht den Sonnenuntergang!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Kartenstandort",
+    "subtitle": "Ag. Markou 8, Chania 731 32, Griechenland",
+    "openMaps": "Auf Google Maps ansehen",
+    "officialText": "Für offizielle Informationen und regionale Tourismustipps besuchen Sie",
+    "officialLabel": "die Griechische Tourismusorganisation (GNTO)"
+  },
+  "faq": {
+    "title": "Häufige Fragen",
+    "subtitle": "Schnelle Antworten auf die häufigsten Besucherfragen zum Alten Venezianischen Hafen von Chania.",
+    "items": [
+      {
+        "q": "Wo liegt der Alte Venezianische Hafen Chania?",
+        "a": "Der Alte Venezianische Hafen liegt in der Ag. Markou 8, im Herzen der Altstadt von Chania auf Kreta, Griechenland."
+      },
+      {
+        "q": "Ist der Besuch des Alten Hafens kostenlos?",
+        "a": "Ja. Das Hafengebiet und die Uferpromenade sind öffentliche Räume und ganzjährig rund um die Uhr kostenlos zugänglich."
+      },
+      {
+        "q": "Wo kann ich in der Nähe des alten Hafens parken?",
+        "a": "Altstadt und Uferpromenade sind Fußgängerzonen mit eingeschränkter Fahrzeugzufahrt. Mehrere städtische Parkplätze liegen am Rand der Altstadt; im Sommer sind sie schnell belegt."
+      },
+      {
+        "q": "Was sind die besten Fotospots am alten Hafen?",
+        "a": "Die bekanntesten Motive sind der ägyptische Leuchtturm am Wellenbrecher, der Ostkai mit den venezianischen Werften (Arsenali) und der westliche Pier für den Sonnenuntergang."
+      },
+      {
+        "q": "Ist der alte Hafen für einen Besuch mit Kindern geeignet?",
+        "a": "Ja. Die Uferpromenade ist eben und gut begehbar, mit viel Platz für Kinderwagen. Achten Sie auf Kinder in der Nähe der ungesicherten Kaimauern und am Wellenbrecher."
+      },
+      {
+        "q": "Kann ich vom Hafen aus eine Bootstour machen?",
+        "a": "Ja. Lokale Anbieter entlang der Uferpromenade bieten Bootstouren durch den Hafen und entlang der Küste an. Preise und Fahrpläne variieren saisonal."
+      },
+      {
+        "q": "Gibt es öffentliche Toiletten am Hafen?",
+        "a": "Ja. Im Hafenbereich und in der Altstadt gibt es öffentliche Toiletten der Stadt. Manche Cafés und Restaurants stellen Sanitäranlagen nur für Gäste bereit."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Quellen & Referenzen",
+    "subtitle": "Die Informationen dieser Seite stammen aus den folgenden offiziellen und institutionellen Quellen.",
+    "items": [
+      {
+        "name": "Griechische Tourismusorganisation (GNTO)",
+        "url": "https://www.visitgreece.gr/inspirations/the_old_port_area_of_chania/"
+      },
+      {
+        "name": "Griechisches Ministerium für Kultur und Sport",
+        "url": "https://www.culture.gov.gr/"
+      },
+      {
+        "name": "Stadt Chania & Offizielle Tourismusbehörde",
+        "url": "https://www.chaniatourism.gr/"
+      },
+      {
+        "name": "Hafenfonds der Stadt Chania",
+        "url": "https://www.dlx.gr/enetiko-limani-2-2/"
+      },
+      {
+        "name": "Incredible Crete – Offizielle Tourismusseite",
+        "url": "https://www.incrediblecrete.gr/"
+      },
+      {
+        "name": "Archäologisches Kataster Griechenlands",
+        "url": "https://www.arxaiologikoktimatologio.gov.gr/"
+      }
+    ],
+    "imageRightsTitle": "Bildrechte",
+    "imageRights": "Alle auf dieser Website gezeigten Fotografien sind Eigentum der jeweiligen Fotografen. Alle Bildrechte liegen bei den ursprünglichen Fotografen."
+  },
+  "footer": {
+    "brandName": "Alter Venezianischer Hafen Chania",
+    "brandSubtitle": "Historisches Wahrzeichen · Kreta, Griechenland",
+    "rights": "© 2026 Unabhängiges Tourismus-Forschungsprojekt · Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "cookies": "Cookie-Einstellungen",
+    "officialResourcesTitle": "Offizielle Quellen & Informationen",
+    "officialLinks": {
+      "gnto": "Griechische Tourismusorganisation (GNTO)",
+      "crete": "Incredible Crete – Offizielle Tourismusseite",
+      "chaniaCity": "Stadt Chania & Offizielle Tourismusbehörde",
+      "portAuthority": "Hafenfonds der Stadt Chania",
+      "archaeological": "Archäologisches Kataster Griechenlands",
+      "culture": "Nationales Kulturerbe Griechenlands"
+    },
+    "disclaimer": "Diese Website ist ein unabhängiges touristisches Informationsprojekt Dritter. Wir stehen in keiner Verbindung zur lokalen Regierung oder anderen offiziellen Stellen.",
+    "imageRights": "Alle Fotos auf dieser Website sind Eigentum der jeweiligen Fotografen."
+  },
+  "officialManagement": {
+    "title": "Über den Alten Venezianischen Hafen von Chania",
+    "text": "Der Alte Venezianische Hafen von Chania wird vom griechischen Ministerium für Kultur und Sport verwaltet und geschützt. Das Gebiet ist als geschützte historische Stätte ausgewiesen und Teil der griechischen Bemühungen zum Schutz des Kulturerbes."
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "lastUpdated": "Zuletzt aktualisiert: 31. August 2026",
+    "sections": [
+      {
+        "heading": "Informationssammlung",
+        "content": "Wenn Sie unsere Website besuchen, erfassen wir möglicherweise automatisch grundlegende Informationen über Ihr Gerät, Ihren Browser und Ihr Surfverhalten, um ein besseres Nutzererlebnis zu bieten. Diese Informationen enthalten keine persönliche Identität."
+      },
+      {
+        "heading": "Verwendung von Cookies",
+        "content": "Wir verwenden Cookies, um den Website-Traffic zu analysieren und Seiteninhalte zu optimieren. Sie können Ihre Präferenzen jederzeit über die Cookie-Einstellungen am Ende unserer Website verwalten."
+      },
+      {
+        "heading": "Datensicherheit und Schutz",
+        "content": "Wir setzen uns für die Sicherheit Ihrer privaten Daten ein und verkaufen, vermieten oder handeln Ihre Surf-Daten nicht an Drittunternehmen zu kommerziellen Zwecken."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Zuletzt aktualisiert: 31. August 2026",
+    "sections": [
+      {
+        "heading": "Website-Inhalte und Nutzung",
+        "content": "Diese Website bietet Reise-, Transport- und Geschichtsinformationen über den Alten Venezianischen Hafen von Chania. Alle Inhalte dienen nur der Information. Tatsächliche Öffnungszeiten und Attraktionsinformationen können sich jederzeit ändern; bitte beachten Sie die offiziellen Bekanntmachungen."
+      },
+      {
+        "heading": "Geistiges Eigentum",
+        "content": "Die Texte, Bilder und Designs auf dieser Website sind urheberrechtlich geschützt. Ohne ausdrückliche schriftliche Genehmigung darf niemand die Website-Inhalte für kommerzielle Zwecke nutzen."
+      },
+      {
+        "heading": "Haftungsausschluss",
+        "content": "Wir bemühen uns um die Richtigkeit und Aktualität der Informationen, übernehmen jedoch keine rechtliche Verantwortung für Reiseverzögerungen oder Verluste, die direkt oder indirekt durch die Nutzung der auf dieser Website bereitgestellten Informationen entstehen."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie-Einstellungen",
+    "description": "Verwalten Sie Ihre Cookie-Präferenzen.",
+    "essential": {
+      "title": "Notwendige Cookies",
+      "description": "Für die grundlegende Funktionalität der Website erforderlich und können nicht deaktiviert werden.",
+      "badge": "Immer aktiv"
+    },
+    "analytics": {
+      "title": "Analyse",
+      "description": "Helfen Sie uns, das Besucherverhalten zu verstehen und die Website zu verbessern."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Wird für standortübergreifendes Tracking und personalisierte Werbung verwendet."
+    },
+    "save": "Präferenzen speichern",
+    "saved": "Präferenzen gespeichert!"
+  }
+}

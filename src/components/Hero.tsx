@@ -11,7 +11,7 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="/gallery/old-venetian-port-of-chania (1).jpg"
-          alt="Old Venetian Port of Chania"
+          alt={t('imgAlt') || 'Old Venetian Port of Chania'}
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />

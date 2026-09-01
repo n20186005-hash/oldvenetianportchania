@@ -8,24 +8,19 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://dinglicliffsmalta.com';
-  const zhUrl = `${baseUrl}/zh/cookie-settings`;
-  const enUrl = `${baseUrl}/en/cookie-settings`;
-  const mtUrl = `${baseUrl}/mt/cookie-settings`;
-  const itUrl = `${baseUrl}/it/cookie-settings`;
-  const esUrl = `${baseUrl}/es/cookie-settings`;
+  const baseUrl = 'https://oldvenetianportchania.com';
   const selfUrl = `${baseUrl}/${locale}/cookie-settings`;
 
   return {
     alternates: {
       canonical: selfUrl,
       languages: {
-        'zh': zhUrl,
-        'en': enUrl,
-        'mt': mtUrl,
-        'it': itUrl,
-        'es': esUrl,
-        'x-default': enUrl,
+        'zh-CN': `${baseUrl}/zh/cookie-settings`,
+        'en': `${baseUrl}/en/cookie-settings`,
+        'el': `${baseUrl}/el/cookie-settings`,
+        'de': `${baseUrl}/de/cookie-settings`,
+        'fr': `${baseUrl}/fr/cookie-settings`,
+        'x-default': `${baseUrl}/en/cookie-settings`,
       },
     },
   };

@@ -28,13 +28,13 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Old+Venetian+Port+Chania+Greece&output=embed"
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2890.1715034863746!2d24.0151836!3d35.5171655!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x149c7db94337d6af%3A0xffeb52c812e7d17f!2sOld%20Venetian%20Port%20of%20Chania!5e1!3m2!1szh-CN!2s!4v1788234253943!5m2!1szh-CN!2s"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
+            referrerPolicy="strict-origin-when-cross-origin"
             title="Google Maps - Old Venetian Port of Chania"
           />
         </div>
@@ -60,6 +60,20 @@ export default function MapEmbed() {
             </svg>
           </a>
         </div>
+
+        {/* Official tourism portal */}
+        <p className="mt-6 text-center text-sm" style={{ color: 'var(--text-muted)' }}>
+          {t('officialText')}{' '}
+          <a
+            href="https://www.visitgreece.gr/inspirations/the_old_port_area_of_chania/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-medium hover:underline"
+            style={{ color: 'var(--accent)' }}
+          >
+            {t('officialLabel')}
+          </a>
+        </p>
       </div>
     </section>
   );

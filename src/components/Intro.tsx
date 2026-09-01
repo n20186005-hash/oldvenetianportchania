@@ -6,9 +6,10 @@ export default function Intro() {
   const messages = useMessages() as any;
   const items: string[] = messages?.intro?.visitGuide?.items || [];
   const alsoKnownAsItems: string[] = messages?.intro?.alsoKnownAs?.items || [];
+  const breadcrumb: string[] = messages?.intro?.breadcrumb || [];
 
   return (
-    <section className="section-padding">
+    <section id="intro" className="section-padding">
       <div className="max-w-4xl mx-auto">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
@@ -17,6 +18,21 @@ export default function Intro() {
           {t('title')}
         </h2>
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
+
+        {breadcrumb.length > 0 && (
+          <nav aria-label="Breadcrumb" className="mb-6">
+            <ol className="flex flex-wrap items-center gap-2 text-sm" style={{ color: 'var(--text-muted)' }}>
+              {breadcrumb.map((crumb, i) => (
+                <li key={i} className="flex items-center gap-2">
+                  {i > 0 && <span aria-hidden="true" style={{ color: 'var(--text-muted)' }}>›</span>}
+                  <span style={{ color: i === breadcrumb.length - 1 ? 'var(--text-secondary)' : 'inherit', fontWeight: i === breadcrumb.length - 1 ? 500 : 400 }}>
+                    {crumb}
+                  </span>
+                </li>
+              ))}
+            </ol>
+          </nav>
+        )}
 
         <p
           className="text-lg leading-relaxed mb-12"

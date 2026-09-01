@@ -8,24 +8,19 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://dinglicliffsmalta.com';
-  const zhUrl = `${baseUrl}/zh/terms-of-service`;
-  const enUrl = `${baseUrl}/en/terms-of-service`;
-  const mtUrl = `${baseUrl}/mt/terms-of-service`;
-  const itUrl = `${baseUrl}/it/terms-of-service`;
-  const esUrl = `${baseUrl}/es/terms-of-service`;
+  const baseUrl = 'https://oldvenetianportchania.com';
   const selfUrl = `${baseUrl}/${locale}/terms-of-service`;
 
   return {
     alternates: {
       canonical: selfUrl,
       languages: {
-        'zh': zhUrl,
-        'en': enUrl,
-        'mt': mtUrl,
-        'it': itUrl,
-        'es': esUrl,
-        'x-default': enUrl,
+        'zh-CN': `${baseUrl}/zh/terms-of-service`,
+        'en': `${baseUrl}/en/terms-of-service`,
+        'el': `${baseUrl}/el/terms-of-service`,
+        'de': `${baseUrl}/de/terms-of-service`,
+        'fr': `${baseUrl}/fr/terms-of-service`,
+        'x-default': `${baseUrl}/en/terms-of-service`,
       },
     },
   };
