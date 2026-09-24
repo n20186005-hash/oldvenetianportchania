@@ -8,7 +8,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://oldvenetianportchania.com';
+  const baseUrl = 'https://www.oldvenetianportchania.com';
   const selfUrl = `${baseUrl}/${locale}/cookie-settings`;
 
   return {

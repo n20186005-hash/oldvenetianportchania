@@ -1,6 +1,6 @@
 import type { MetadataRoute } from 'next';
 
-const baseUrl = 'https://oldvenetianportchania.com';
+const baseUrl = 'https://www.oldvenetianportchania.com';
 const locales = ['zh', 'en', 'el', 'de', 'fr'] as const;
 // Fixed date to avoid build-to-build drift
 const lastModified = new Date('2026-09-01');

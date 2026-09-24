@@ -21,7 +21,7 @@ import SourcesSection from '@/components/SourcesSection';
 import MapEmbed from '@/components/MapEmbed';
 import Footer from '@/components/Footer';
 
-const baseUrl = 'https://oldvenetianportchania.com';
+const baseUrl = 'https://www.oldvenetianportchania.com';
 
 export default async function HomePage({
   params,

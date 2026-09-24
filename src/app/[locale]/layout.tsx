@@ -4,7 +4,7 @@ import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import type { Metadata } from 'next';
 
-const baseUrl = 'https://oldvenetianportchania.com';
+const baseUrl = 'https://www.oldvenetianportchania.com';
 const heroImage = `${baseUrl}/gallery/old-venetian-port-of-chania%20(1).jpg`;
 
 const htmlLangMap: Record<string, string> = {
@@ -136,6 +136,7 @@ export default async function LocaleLayout({
           'Παλαιό Ενετικό Λιμάνι Χανίων',
           'Vieux Port Vénitien de La Canée',
           'Alter Venezianischer Hafen Chania',
+          '哈尼亚威尼斯旧港',
         ],
         description: (messages as any)?.meta?.description,
         url: selfUrl,
@@ -162,7 +163,7 @@ export default async function LocaleLayout({
         aggregateRating: {
           '@type': 'AggregateRating',
           ratingValue: '4.8',
-          reviewCount: '42053',
+          reviewCount: '42404',
         },
         openingHoursSpecification: {
           '@type': 'OpeningHoursSpecification',
